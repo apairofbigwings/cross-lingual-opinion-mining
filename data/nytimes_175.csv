@@ -1,0 +1,570 @@
+,cluster,topic,doc_type,source,article_id,sentence,sentence_id,cosine_similarity,textblob_polarity
+0,0,Environment (pesticides & fertilizers),Article,nytimes,175.0,"The alterations make soybeans resistant to a herbicide used in weed control, and causes the corn to produce its own insecticide.",26644.0,0.5124595165252686,0.6000000000000001
+1,0,Environment (pesticides & fertilizers),Article,nytimes,175.0,"Efforts are under way to produce a genetically altered apple that will spoil less quickly, as well as genetically altered salmon that will grow faster.",26645.0,0.4205295741558075,0.08333333333333301
+2,1,Retailers,Article,nytimes,175.0,"Today, Whole Foods’ shelves carry some 3,300 private-label and branded products that are certified, the largest selection of any grocery chain in the country.",26686.0,0.4858538508415222,0.2
+3,1,Retailers,Article,nytimes,175.0,"Whole Foods, which specializes in organic products, tends to be favored by those types of consumers, and it enjoys strong sales of its private-label products, whose composition it controls.",26679.0,0.4804054498672485,0.477777777777777
+4,1,Retailers,Article,nytimes,175.0,The company thus risks less than some more traditional food retailers in taking a stance on labeling.,26680.0,0.43460264801979065,0.111111111111111
+5,1,Retailers,Article,nytimes,175.0,The labeling requirements announced by Whole Foods will include its 339 stores in the United States and Canada.,26651.0,0.4239377975463867,0.2
+6,1,Retailers,Article,nytimes,175.0,He said Whole Foods looked forward to working with suppliers on the labeling.,26688.0,0.400944322347641,0.2
+7,1,Retailers,Article,nytimes,175.0,But even Whole Foods has not been immune to criticism on the G.M.O.,26682.0,0.4001734852790833,0.2
+8,1,Retailers,Article,nytimes,175.0,"Whole Foods Market, the grocery chain, on Friday became the first retailer in the United States to require labeling of all genetically modified foods sold in its stores, a move that some experts said could radically alter the food industry.",26638.0,0.3952012062072754,0.225
+9,1,Retailers,Article,nytimes,175.0,"A. C. Gallo, president of Whole Foods, said the new labeling requirement, to be in place within five years, came in response to consumer demand.",26639.0,0.3913109302520752,0.16818181818181802
+10,1,Retailers,Article,nytimes,175.0,"Coincidentally, the American Halal Company, a food company whose Saffron Road products are sold in Whole Foods stores, on Friday introduced the first frozen food, a chickpea and spinach entree, that has been certified not to contain genetically modified ingredients.",26672.0,0.3819521069526672,0.15
+11,1,Retailers,Article,nytimes,175.0,"The Grocery Manufacturers Association, the trade group that represents major food companies and retailers, issued a statement opposing the move.",26648.0,0.3752053380012512,0.0625
+12,1,Retailers,Article,nytimes,175.0,Mr. Gallo said Whole Foods did not consult with its suppliers about its decision and informed them of it only shortly before making its announcement Friday.,26687.0,0.36477962136268616,0.06666666666666599
+13,1,Retailers,Article,nytimes,175.0,The announcement ricocheted around the food industry and excited proponents of labeling.,26646.0,0.3521231412887573,0.375
+14,1,Retailers,Article,nytimes,175.0,"“Now, one of the fastest-growing, most successful retailers in the country is throwing down the gantlet.”.",26662.0,0.3334259688854217,0.3648148148148141
+15,1,Retailers,Article,nytimes,175.0,"Other initiatives have qualified for the ballot in Washington State and Missouri, while consumers across the country have been waging a sort of guerrilla movement in supermarkets, pasting warning stickers on products suspected of having G.M.O.",26657.0,0.3146296441555023,-0.125
+16,2,Garbage 1,Article,,,,,,
+17,3,GMO & organic,Article,nytimes,175.0,"Proponents of labeling insist that consumers have a right to know about the ingredients in the food they eat, and they contend that some studies in rats show that bioengineered food can be harmful.",26659.0,0.5751848220825195,0.28571428571428503
+18,3,GMO & organic,Article,nytimes,175.0,"The labels currently used show that a product has been verified as free of genetically engineered ingredients by the Non GMO Project, a nonprofit certification organization.",26653.0,0.5691218972206116,0.2
+19,3,GMO & organic,Article,nytimes,175.0,"Most of the corn and soybeans grown in the United States, for example, have been genetically modified.",26643.0,0.5106926560401917,0.5
+20,3,GMO & organic,Article,nytimes,175.0,"The labels Whole Foods will use in 2018, which have yet to be created, will identify foods that contain such ingredients.",26654.0,0.5082552433013916,0.1
+21,3,GMO & organic,Article,nytimes,175.0,The shift by Whole Foods is the latest in a series of events that has intensified the debate over genetically modified foods.,26655.0,0.5028459429740906,0.35000000000000003
+22,3,GMO & organic,Article,nytimes,175.0,"“These labels could mislead consumers into believing that these food products are somehow different or present a special risk or a potential risk,” Louis Finkel, the organization’s executive director of government affairs, said in the statement.",26649.0,0.4913713335990906,0.08928571428571401
+23,3,GMO & organic,Article,nytimes,175.0,"She contended, however, that without scientific evidence showing that genetically modified foods caused health or safety issues, labeling was unnecessary.",26669.0,0.4899587035179138,-0.4
+24,3,GMO & organic,Article,nytimes,175.0,"Some 20 major food companies, as well as Wal-Mart, met recently in Washington to discuss genetically modified labeling.",26671.0,0.4896193146705627,0.03125
+25,3,GMO & organic,Article,nytimes,175.0,"Since labeling is already required in the European Union, products in its seven stores in Britain are already marked if they contain genetically modified ingredients.",26652.0,0.485483318567276,0.05
+26,3,GMO & organic,Article,nytimes,175.0,"Karen Batra, a spokeswoman for BIO, a trade group representing the biotech industry, said it was too early to determine what impact, if any, the Whole Foods decision would have.",26665.0,0.4840202927589417,0.15000000000000002
+27,3,GMO & organic,Article,nytimes,175.0,"Gary Hirshberg, chairman of Just Label It, a campaign for a federal requirement to label foods containing genetically modified ingredients, called the Whole Foods decision a “game changer.”.",26660.0,0.4814510941505432,-0.1
+28,3,GMO & organic,Article,nytimes,175.0,"More than 90 percent of respondents to a poll of potential voters in the 2012 elections, conducted by the Mellman Group in February last year, were in favor of labeling genetically modified foods.",26673.0,0.4804339408874512,0.16666666666666602
+29,3,GMO & organic,Article,nytimes,175.0,"Mr. Finkel noted that the Food and Drug Administration, as well as regulatory and scientific bodies including the World Health Organization and the American Medical Association, had deemed genetically modified products safe.",26650.0,0.4785355925559998,0.16666666666666602
+30,3,GMO & organic,Article,nytimes,175.0,"“Fantastic,” said Mark Kastel, co-director of the Cornucopia Institute, an organic advocacy group that favors labeling.",26647.0,0.40513598918914795,0.4
+31,4,Garbage 2,Article,,,,,,
+32,5,Food products & taste,Article,,,,,,
+33,6,Food safety,Article,,,,,,
+34,7,Research,Article,,,,,,
+35,8,Health & nutrition,Article,nytimes,175.0,"That fight, however, has cost food companies in other ways.",26676.0,0.41576623916625977,-0.125
+36,9,Garbage 3,Article,,,,,,
+37,10,Politics & policy & compliance,Article,nytimes,175.0,"State legislatures and regulatory agencies are pondering labeling on their own, and consumers have been aggressive in criticizing some of the companies that fought the initiative, using Twitter and Facebook to make their views known.",26677.0,0.2605237364768982,0.6000000000000001
+38,10,Politics & policy & compliance,Article,nytimes,175.0,"“We’ve had some pretty big developments in labeling this year,” Mr. Hirshberg said, adding that 22 states now have some sort of pending labeling legislation.",26661.0,0.237969771027565,0.125
+39,10,Politics & policy & compliance,Article,nytimes,175.0,"Some 93 percent of Democrats and 89 percent of Republicans in the poll, which had a margin of error of plus or minus 3.1 percent, favored it.",26674.0,0.18133015930652616,0.35000000000000003
+40,11,Animal welfare & meat consumption,Article,nytimes,175.0,"Today, only a small number of milk cows are injected with the hormone.",26664.0,0.3793998956680298,-0.125
+41,12,Farming & agricultural policy & food security,Article,nytimes,175.0,He compared the potential impact of the Whole Foods announcement to Wal-Mart’s decision several years ago to stop selling milk from cows treated with growth hormone.,26663.0,0.4421969652175903,0.06666666666666599
+42,12,Farming & agricultural policy & food security,Article,nytimes,175.0,"But in the fight over the California initiative, Proposition 37, the opponents succeeded in persuading voters that labeling would have a negative effect on food prices and the livelihood of farmers.",26675.0,0.42256343364715576,-0.30000000000000004
+43,12,Farming & agricultural policy & food security,Article,nytimes,175.0,"Voters defeated a hard-fought ballot initiative in California late last year after the biotech industry, and major corporations like PepsiCo and Coca-Cola, spent millions of dollars to fight the effort.",26656.0,0.3381515443325043,-0.08437499999999999
+44,13,Consumer prices & profit,Article,,,,,,
+45,14,Garbage 4,Article,,,,,,
+46,0,Environment (pesticides & fertilizers),Comment,nytimes,175.0,The resulting food is now dosed in pesticides at ever increasing doses as the bugs and pathogens just use natural selection to breed resistance to the pesticide/herbicide.,27072.0,0.575236439704895,0.1
+47,0,Environment (pesticides & fertilizers),Comment,nytimes,175.0,Making a crop resistant to Roundup means you can spray it with pesticide as much as you like.,27134.0,0.559065580368042,0.2
+48,0,Environment (pesticides & fertilizers),Comment,nytimes,175.0,The most commonly used genetic modification involves putting a gene from certain microorganisms into plant crops in order to make them resistant to pesticides (i.e.,26822.0,0.5355339050292969,0.13809523809523802
+49,0,Environment (pesticides & fertilizers),Comment,nytimes,175.0,"Farmers are spending huge bucks on modified seed but now with all the herbicide resistance, they have to add the same old chemicals to their tanks anyway.",27380.0,0.5344352126121521,0.16666666666666602
+50,0,Environment (pesticides & fertilizers),Comment,nytimes,175.0,"They are regulated by the EPA, since the government considers them to be pesticides, due to the high concentrations of chemicals in them.",27231.0,0.5294564962387085,0.0175
+51,0,Environment (pesticides & fertilizers),Comment,nytimes,175.0,"Or climate conditions these crops are ""built"" to withstand change in the area where they are most planted?",27250.0,0.5178609490394592,0.5
+52,0,Environment (pesticides & fertilizers),Comment,nytimes,175.0,These plants are stronger and more resistant.,27194.0,0.5153715610504149,0.5
+53,0,Environment (pesticides & fertilizers),Comment,nytimes,175.0,This effect is making it more and more difficult to have seeds without GM modification in their genes.,27077.0,0.4982843995094299,0.16666666666666602
+54,0,Environment (pesticides & fertilizers),Comment,nytimes,175.0,You are welcome to eat corn that has been modified to produce an insecticide.,27295.0,0.4968875646591186,0.8
+55,0,Environment (pesticides & fertilizers),Comment,nytimes,175.0,"Organic, pesticide-free potatoes are available on eh market.",27238.0,0.4825849831104279,0.4
+56,0,Environment (pesticides & fertilizers),Comment,nytimes,175.0,A number of plants have been subjected to ionizing radiation in order to deliberately cause DNA mutations resulting in new varietal traits.,27055.0,0.463040292263031,0.13636363636363602
+57,0,Environment (pesticides & fertilizers),Comment,nytimes,175.0,Every Whole Foods I have ever stepped foot in has conventionally grown produce alongside the organic.,27019.0,0.4448715150356293,0.028571428571427995
+58,0,Environment (pesticides & fertilizers),Comment,nytimes,175.0,Natural genetic modification would never result in fish genes in strawberries no matter how many generations you selectively bred.,27074.0,0.4380707740783691,0.30000000000000004
+59,0,Environment (pesticides & fertilizers),Comment,nytimes,175.0,Just suppose you are wrong and there is an unforseen risk in GM seeds.,27078.0,0.4311748743057251,-0.5
+60,0,Environment (pesticides & fertilizers),Comment,nytimes,175.0,They are literally obliterating certain species (I give you the hundreds of species of corn that are now on the verge of extinction).,27197.0,0.4264349937438965,0.214285714285714
+61,0,Environment (pesticides & fertilizers),Comment,nytimes,175.0,"Much better for the bees who are disappearing, as well as for your children and their health.",27532.0,0.4238375723361969,0.5
+62,0,Environment (pesticides & fertilizers),Comment,nytimes,175.0,"For instance, what are their long term effects on nature's biodiversity?",27182.0,0.4208000898361206,-0.05
+63,0,Environment (pesticides & fertilizers),Comment,nytimes,175.0,"You think new ""pests"" will not develop new appetites?.",27129.0,0.409289687871933,0.13636363636363602
+64,0,Environment (pesticides & fertilizers),Comment,nytimes,175.0,"You think ""pests"" will not get hungry for the new species?",27128.0,0.4032244980335236,0.13636363636363602
+65,0,Environment (pesticides & fertilizers),Comment,nytimes,175.0,Part of the reason may be that it is really hard to find traditional seed.,27382.0,0.3975052833557129,-0.145833333333333
+66,1,Retailers,Comment,nytimes,175.0,They say Whole Foods is right there buying non-organic stuff along with everybody else.,27010.0,0.4914219379425049,0.242857142857142
+67,1,Retailers,Comment,nytimes,175.0,"I no longer shop at Whole Foods, but rather at a food cooperative that makes strenuous efforts to eliminate genetically modified foods from its shelves.",27316.0,0.4791751503944397,0.2
+68,1,Retailers,Comment,nytimes,175.0,"Their prices, like Whole Foods (and frankly, increasingly Trader Joe's) are high.",27103.0,0.4767151176929474,0.18
+69,1,Retailers,Comment,nytimes,175.0,"Unfortunately, most other sellers of food products do not have as much control over the products they sell as Trader Joe's has.",27148.0,0.4731324315071106,0.191666666666666
+70,1,Retailers,Comment,nytimes,175.0,"Just one more reason not to shop at Whole Foods, as if price gouging was not enough.",27306.0,0.4637936353683472,0.23333333333333306
+71,1,Retailers,Comment,nytimes,175.0,What Whole Foods is doing will further the movement of labeling for all merchants.,26855.0,0.4632559120655061,0.1
+72,1,Retailers,Comment,nytimes,175.0,Whole Food everything organic and at double or triple the prices is a fraud.,27324.0,0.4609145522117615,0.1
+73,1,Retailers,Comment,nytimes,175.0,"Grateful to Whole Foods, yet one more reason to shop there.",27456.0,0.4546532034873962,0.35000000000000003
+74,1,Retailers,Comment,nytimes,175.0,"We already shop at Whole Food, this will make us shop there even more.",27431.0,0.4532836675643921,0.35000000000000003
+75,1,Retailers,Comment,nytimes,175.0,"Whole Foods, however, treats their ""back end"" staff and cashiers very badly: low hourly pay, long hours, poor working conditions.",27427.0,0.4523057341575623,-0.05
+76,1,Retailers,Comment,nytimes,175.0,Whole Foods also usually identifies the growers and location of their farms to aid those looking for locally grown foods.,27018.0,0.4490063786506653,-0.016666666666666
+77,1,Retailers,Comment,nytimes,175.0,"Whole Foods is guilty of that, too.",27014.0,0.442940354347229,-0.15
+78,1,Retailers,Comment,nytimes,175.0,"I say this as someone who buys organic foods, sometimes at Whole Foods for lack of an alternative.",27368.0,0.44283682107925415,0.2
+79,1,Retailers,Comment,nytimes,175.0,"In fact, at one point I believe WholeMart™ pledged not to carry GMO foods on its shelves, and this latest move of theirs is good but not great.",27320.0,0.4400959610939026,0.266666666666666
+80,1,Retailers,Comment,nytimes,175.0,I pay a LOT more for my produce by shopping at a local organic green grocer.,26872.0,0.4385810494422913,0.099999999999999
+81,1,Retailers,Comment,nytimes,175.0,Whole Foods modus operandi is cheapest out sourcing and highest mark up.,27331.0,0.4377066195011139,0.2
+82,1,Retailers,Comment,nytimes,175.0,Whole Foods is smart to jump on the bandwagon as this issue as been escalating for some time now.,26751.0,0.4333673417568207,0.20714285714285705
+83,1,Retailers,Comment,nytimes,175.0,"This move is most likely more motivated by loss of sales when the extent of GM foods being sold in Whole Foods began to be public knowledge, rather than concern for the public welfare.",26777.0,0.4290069341659546,0.19999999999999898
+84,1,Retailers,Comment,nytimes,175.0,glad we do not have Whole Foods nearby.,27415.0,0.4265527129173279,0.35000000000000003
+85,1,Retailers,Comment,nytimes,175.0,Any competing supermarket that wants my business had better do the same.,26704.0,0.4244466722011566,0.23333333333333306
+86,1,Retailers,Comment,nytimes,175.0,This is perfect for Whole Foods.,27440.0,0.4219679236412048,0.6000000000000001
+87,1,Retailers,Comment,nytimes,175.0,"So, on behalf of consumers everywhere who want to know precisely what is in our food, Thank You, Whole Foods!",26705.0,0.4211801290512085,0.325
+88,1,Retailers,Comment,nytimes,175.0,I suppose the90% who shop at Whole Foods would support the idea.,26879.0,0.41826578974723816,0.2
+89,1,Retailers,Comment,nytimes,175.0,"Trader Joe's private label foods (particularly the prepared meal-type foods) are full of salt, saturated fat and cholesterol.",27151.0,0.4181625247001648,0.17222222222222205
+90,1,Retailers,Comment,nytimes,175.0,"Whole Foods sells a small packet of xanthan gum, an out of the mainstream ingredient generally called for in small quantities, for 69 cents.",27310.0,0.4173423647880554,-0.062499999999999015
+91,1,Retailers,Comment,nytimes,175.0,Maybe it will take that long to figure out how much more to charge for already-overpriced Whole Foods products?,27571.0,0.4173163175582886,0.216666666666666
+92,1,Retailers,Comment,nytimes,175.0,No Whole Foods in my neighborhood but lots of organic operations and no agribusiness.,27214.0,0.4171029925346375,-0.1
+93,1,Retailers,Comment,nytimes,175.0,"I applaud Whole Foods for this marketing ploy because it has given the GM industry 5 years to answer questions that are more difficult, nuanced and important than simply, ""Are GM foods unhealthy?""",27188.0,0.4164448976516724,0.03333333333333299
+94,1,Retailers,Comment,nytimes,175.0,"Really, Whole Foods?",27393.0,0.4128587245941162,0.2
+95,1,Retailers,Comment,nytimes,175.0,Another reason not to shop at Whole Foods.,27559.0,0.41114988923072815,0.2
+96,1,Retailers,Comment,nytimes,175.0,"So now it is not just those who are financially successful in their business or jobs that are envied,it includes those who shop at Whole Foods.",26875.0,0.4100914597511292,0.475
+97,1,Retailers,Comment,nytimes,175.0,Maybe that is one of Whole Foods' goals?,26998.0,0.4099245071411133,0.2
+98,1,Retailers,Comment,nytimes,175.0,Five years is a long time but Whole Foods is actually doing a great deal to accelerate the process.,27001.0,0.4087077379226685,0.2375
+99,1,Retailers,Comment,nytimes,175.0,I am pleased to see any supermarket chain take this action because I believe it will put pressure on their competitors to follow suit.,27369.0,0.4065754413604736,0.30000000000000004
+100,1,Retailers,Comment,nytimes,175.0,Shame on Whole Foods.,27540.0,0.4031411409378052,0.2
+101,1,Retailers,Comment,nytimes,175.0,"People who spew the ""Whole Paycheck"" drivel are people who do not shop Whole Foods.",27307.0,0.4004462957382202,0.2
+102,1,Retailers,Comment,nytimes,175.0,I applaud Whole Foods for at least taking a stand.,27123.0,0.40020614862442017,-0.049999999999999004
+103,1,Retailers,Comment,nytimes,175.0,Why does not Whole Foods refuse to sell GM foods?,27317.0,0.3959041237831116,-0.1
+104,1,Retailers,Comment,nytimes,175.0,"And, I do the bulk of my shopping at Whole Foods'.",26861.0,0.3930148482322693,0.2
+105,1,Retailers,Comment,nytimes,175.0,"Kudos to Whole Foods, though I wish they could push this through faster.",27459.0,0.3906888067722321,0.2
+106,1,Retailers,Comment,nytimes,175.0,Now that is a company that is clearly dedicated to wholesome foods.,27567.0,0.3893910944461823,0.1
+107,1,Retailers,Comment,nytimes,175.0,Congrats to Whole Foods and I hope that other companies follow their lead.,27449.0,0.3886290490627289,0.037500000000000006
+108,1,Retailers,Comment,nytimes,175.0,I have a cousin who works at Whole Foods.,27006.0,0.3885316252708435,0.2
+109,1,Retailers,Comment,nytimes,175.0,"and, Whole Foods is not selling flourescent tobacco, and I know because we shop there (the Scottish Salmon is to die for).",27068.0,0.3863118886947632,0.2
+110,1,Retailers,Comment,nytimes,175.0,"Bravo, Whole Foods.",27212.0,0.38617420196533203,0.2
+111,1,Retailers,Comment,nytimes,175.0,I suppose one solution is to add a special tax on luxury food stores and provide discount cards to those on food stamps so they can shop at Whole Foods.,26877.0,0.3841904997825623,0.27857142857142797
+112,1,Retailers,Comment,nytimes,175.0,"I have to read every small print label they put on every salad bar item, and ask every time I order a sandwich at their delis.",26709.0,0.3781157732009888,-0.25
+113,1,Retailers,Comment,nytimes,175.0,I no longer shop at Whole Foods ever since the owner of Whole Foods called the President a fascist on morning television a couple of weeks ago.,27138.0,0.3731854856014252,0.2
+114,1,Retailers,Comment,nytimes,175.0,"This plus their pretty universal, higher than average prices gives me one more reason not to shop at WF.",26941.0,0.37160494923591614,0.16999999999999899
+115,1,Retailers,Comment,nytimes,175.0,Hey Whole Foods!,26768.0,0.3710064888000488,0.25
+116,1,Retailers,Comment,nytimes,175.0,"Ever ask the cashiers at Whole Foods and those who work the ""back end"" of the stores what their working lives are like?.",27003.0,0.3696413636207581,0.1
+117,1,Retailers,Comment,nytimes,175.0,Kinda harsh to assume people that shop at Whole Foods are 'smug' and feel they are better than those who shop elsewhere.,26867.0,0.3676108121871948,0.16666666666666602
+118,1,Retailers,Comment,nytimes,175.0,"It is not ""classist"" to note the obvious fact that Whole Foods Markets are located almost exclusively in wealthy neighborhoods and cater to a better-off clientele or that they overcharge.",27366.0,0.366243839263916,0.23333333333333306
+119,1,Retailers,Comment,nytimes,175.0,And it is not a PR ploy by Whole Foods.,26972.0,0.3640335202217102,0.2
+120,1,Retailers,Comment,nytimes,175.0,It along all the rest is for years has been misleading the gullible/ uppity stuck on Whole Food brand buying 85% mislabeled fish varieties and others being wild caught.,27332.0,0.36259472370147705,0.15000000000000002
+121,1,Retailers,Comment,nytimes,175.0,I have never been in a whole foods (none around here) but this would make me seek one out next time in the Big City to see what kind of packaged stuff fesses up.,26896.0,0.3593193292617798,0.2
+122,1,Retailers,Comment,nytimes,175.0,Give them a call and tell them that if they do not follow suit you will take your business to Whole Foods.,27485.0,0.3586258292198181,0.2
+123,1,Retailers,Comment,nytimes,175.0,"And to those who accuse them of price gauging, today I priced a certain fruit jam at Safeway ($5.29) and at WF ($4.49).",27462.0,0.35789284110069275,0.214285714285714
+124,1,Retailers,Comment,nytimes,175.0,Oh and by the way I have not shopped at my local Whole Foods since the CEO called the ACA and Obama administration fascist.,26871.0,0.3558992147445679,0.1
+125,1,Retailers,Comment,nytimes,175.0,Now if Whole Foods improved its anti-union labor practices I would be far happier with that organization.,26778.0,0.3530772924423218,0.15000000000000002
+126,1,Retailers,Comment,nytimes,175.0,I congratulate Whole Foods and hope others follow suit.,27024.0,0.3455032110214233,0.2
+127,1,Retailers,Comment,nytimes,175.0,Fairway will likely not do this.they are expanding very rapidly and becoming more and more like typical high end supermarkets.,27102.0,0.3444553017616272,0.234761904761904
+128,1,Retailers,Comment,nytimes,175.0,"This is America and I have the right to choose to eat an entire box of ding dongs if I want, or even shop at Whole Foods and pay a bit more because they source a lot of their food locally, provide mostly organic products, and actually seem to take care of their employees.",26868.0,0.3274900019168854,0.21224489795918305
+129,1,Retailers,Comment,nytimes,175.0,"do not you know that John Mackey, the CoFounder and Co-CEO of Whole Foods Market voted for Mitt Romney?",26728.0,0.32500171661376953,0.2
+130,1,Retailers,Comment,nytimes,175.0,And consumers at WF and the whole country will appreciate it.,27221.0,0.3238671720027924,0.2
+131,1,Retailers,Comment,nytimes,175.0,The store is just giving in to the latest fad that is complete not based in any science.,27241.0,0.3160039782524109,0.30000000000000004
+132,1,Retailers,Comment,nytimes,175.0,A whole new slew of food evangelists who are willing to even pay more for worthless claims.,27441.0,0.3159864246845245,0.057272727272727
+133,1,Retailers,Comment,nytimes,175.0,They ship produce 3K miles when local is available.,27420.0,0.3116441965103149,0.2
+134,1,Retailers,Comment,nytimes,175.0,"As with the topic of this recently published article (<a href=""http://cityroom.blogs.nytimes.com/2013/03/07/a-healthier-doughnut-at-least-environmentally/?comments#comments"" title=""http://cityroom.blogs.nytimes.com/2013/03/07/a-healthier-doughnut-at-least-environmentally/?comments#comments"" target=""_blank"">http://cityroom.blogs.nytimes.com/2013/03/07/a-healthier-doughnut-at-lea.</a> ) about the New York State comptroller threatening shareholder action if Dunkin' Donuts were to continue to use non-sustainable palm oil in its products, this is wonderful news!",26993.0,0.30855607986450195,0.247272727272727
+135,1,Retailers,Comment,nytimes,175.0,I do not normally shop at WF but this is a good reason to start.,27096.0,0.3060387670993805,0.3125
+136,1,Retailers,Comment,nytimes,175.0,I was also astounded 25 years ago to be able to leave this country and buy unbelievably fresh milk that had been irradiated and did not need refrigeration before opening.,27478.0,0.30386993288993835,0.4
+137,1,Retailers,Comment,nytimes,175.0,If one shops smart (5 lb.,26862.0,0.2984416484832764,0.214285714285714
+138,1,Retailers,Comment,nytimes,175.0,"I am always leery of their products and pick them very, very carefully.",27158.0,0.2854047417640686,-0.13
+139,1,Retailers,Comment,nytimes,175.0,"If you are not willing to pay for quality, go to TJ's.",27314.0,0.2824440002441406,-0.125
+140,1,Retailers,Comment,nytimes,175.0,"Yes, some items at WFM are expensive.",27313.0,0.27936914563179016,-0.5
+141,1,Retailers,Comment,nytimes,175.0,They will get more of my business which now goes only to my organic co-op.,26883.0,0.2725287675857544,0.25
+142,1,Retailers,Comment,nytimes,175.0,just ask any sparkling wine maker how much they would like to market their product as Champagne.,27586.0,0.2557019591331482,0.2
+143,1,Retailers,Comment,nytimes,175.0,Please label employees who receive medical coverage by Whole Paycheck,27574.0,0.2440840750932693,0.1
+144,1,Retailers,Comment,nytimes,175.0,I go there for only a few items that I cannot get elsewhere.,27403.0,0.2374022752046585,-0.1
+145,1,Retailers,Comment,nytimes,175.0,"While we are at it, why not force Starbucks to label their drug-laden drinks (that's the drug sugar I am referring to) so it was a little bit clearer that they are actually a drug delivery system with a product to satisfy all of us sugar addicts out there.",26798.0,0.218257874250412,-0.09375
+146,2,Garbage 1,Comment,nytimes,175.0,"Honestly, you are going to fret yourself to an early grave.",27015.0,0.11783109605312347,0.35000000000000003
+147,2,Garbage 1,Comment,nytimes,175.0,He is a happy employee and loves it.,27007.0,0.1073913723230362,0.8
+148,2,Garbage 1,Comment,nytimes,175.0,Mother Nature bats last and best.,27445.0,0.10621514916419984,0.5
+149,2,Garbage 1,Comment,nytimes,175.0,very true but give them a brief round of applause.,26779.0,0.0999474823474884,0.084999999999999
+150,2,Garbage 1,Comment,nytimes,175.0,I expected better sense from Americans.,27577.0,0.09693894535303116,0.2
+151,2,Garbage 1,Comment,nytimes,175.0,"Thanks, Mr. Gallo.",27432.0,0.0952707827091217,0.2
+152,2,Garbage 1,Comment,nytimes,175.0,My wife found many of them have all three within the top 3.,26832.0,0.08958029747009277,0.5
+153,2,Garbage 1,Comment,nytimes,175.0,Their favorite mode of suicide?,27116.0,0.08711022883653641,0.5
+154,2,Garbage 1,Comment,nytimes,175.0,But it was too late to save my son who died.,27503.0,0.08630932867527008,-0.30000000000000004
+155,2,Garbage 1,Comment,nytimes,175.0,Who in Gods green acre comes up with such misery causing ideas?,26992.0,0.07750234007835388,-0.1
+156,2,Garbage 1,Comment,nytimes,175.0,Nice PR move WF's.,26740.0,0.0757543295621872,0.6000000000000001
+157,2,Garbage 1,Comment,nytimes,175.0,This one I especially just want to slap with the stupid stick.,27524.0,0.07232008874416351,-0.39999999999999897
+158,2,Garbage 1,Comment,nytimes,175.0,I am glad that somebody will keep Pres.,26718.0,0.0704236775636673,0.5
+159,2,Garbage 1,Comment,nytimes,175.0,"WF could start with stickers that have strong adhesive, for starters.",27399.0,0.06980906426906586,0.4333333333333329
+160,2,Garbage 1,Comment,nytimes,175.0,"Fairway's customer service number is: (646) 616-8088 or you can e-mail them at: <a href=""mailto:info@fairwaymarket.com"">info@fairwaymarket.com</a>",27486.0,0.06622598320245743,-0.75
+161,2,Garbage 1,Comment,nytimes,175.0,Obama's 4 year old campaign pledge.,26719.0,0.061882320791482925,0.1
+162,2,Garbage 1,Comment,nytimes,175.0,"Seven years ago my dad, my son and I were very sick and the doctors did not know why.",27496.0,0.06043976917862893,-0.9285714285714279
+163,3,GMO & organic,Comment,nytimes,175.0,"GMO foods are typically better for the environment in many ways actually, because the modifications cut down on the need for pesticides and fertilizers that often cause pollution.",27100.0,0.6155818104743958,0.21111111111111105
+164,3,GMO & organic,Comment,nytimes,175.0,"Until FDA admits that the foreign proteins in GMO foods, which have never been in the human food supply before, are ""food additives"", and requires safety testing as it does for other additives, I want to avoid those foods.",27563.0,0.6081873178482056,-0.08333333333333301
+165,3,GMO & organic,Comment,nytimes,175.0,"Packaged food is mostly junk food, whether it is organic or has GMO content does not change that.",27153.0,0.6047377586364746,0.5
+166,3,GMO & organic,Comment,nytimes,175.0,The issue is that Whole Foods is informing customers which products have GMO.,27287.0,0.5987280607223511,0.2
+167,3,GMO & organic,Comment,nytimes,175.0,"I do not agree that GMO foods are necessarily bad for you, but I agree completely that labeling of such is a consumer benefit, just as nutrition labeling is good in order for the consumer to make an informed choice.",27448.0,0.5964556932449341,0.025
+168,3,GMO & organic,Comment,nytimes,175.0,"Since there is no discernible difference between GMO products and non-GMO products, this is just another PR ploy by Whole Foods.",26940.0,0.5956704616546631,0.2
+169,3,GMO & organic,Comment,nytimes,175.0,"GM foods may be perfectly healthy for individuals to consume, but using that as the sole basis for judgement is narrow- and short-sighted because it only considers one organism's health (human) on one time scale (short term) and one economic order of magnitude (micro).",27180.0,0.5945264101028442,0.07142857142857101
+170,3,GMO & organic,Comment,nytimes,175.0,"GMOs are bad for your body, bad for the community, bad for farmers and bad for the environment.",27345.0,0.5943951606750488,-0.6999999999999991
+171,3,GMO & organic,Comment,nytimes,175.0,I will bet that it is impossible to distinguish GMO foods from any other food whether by taste or reaction to our bodies.,26803.0,0.5904020071029663,-0.3958333333333329
+172,3,GMO & organic,Comment,nytimes,175.0,"GMOs contain new proteins, and they are for all intent and purposes, ""additives"" to the food we consume, so why not label them?",26924.0,0.5887210369110107,0.13636363636363602
+173,3,GMO & organic,Comment,nytimes,175.0,"Most of these foods actually do NOT have any genetic material, and because they are the same as their non GM counterparts, the FDA rule saying labeling is not needed is appropriate.",27172.0,0.5874049067497253,0.25
+174,3,GMO & organic,Comment,nytimes,175.0,"Instead, most people will realize that they have been eating GMO food for a very long time in practically everything that they eat, and conclude that it is irrelevant.",27278.0,0.5862182378768921,-0.021666666666665998
+175,3,GMO & organic,Comment,nytimes,175.0,I grant you that GMOs can help solve some issues related to food production - sure - and that they can even be nutritionally superior to non-GMOs.,27248.0,0.5843721628189087,0.39999999999999897
+176,3,GMO & organic,Comment,nytimes,175.0,GMO foods are proving to not cut down on the need for pesticides as Roundup becomes less effective over time.,27143.0,0.5841941833496094,0.09259259259259199
+177,3,GMO & organic,Comment,nytimes,175.0,"There are two possibilities: GMO foods are perfectly safe, or GMO foods are unsafe for human consumption.",27464.0,0.584034264087677,0.25
+178,3,GMO & organic,Comment,nytimes,175.0,"Years ago Consumer Reports pointed out that more ""organic"" food was sold than was grown.",27509.0,0.5822057127952576,0.5
+179,3,GMO & organic,Comment,nytimes,175.0,"Have they ever admitted that organic farming practices represent a higher food safety risk, which is why most of the produce recalls have been from organic (or transition following the same practice rules).",27176.0,0.5787253379821777,0.1875
+180,3,GMO & organic,Comment,nytimes,175.0,The effect of GMO food on health has not been established and could not possible be at such an early stage of mass consumption.,27294.0,0.577836811542511,0.03333333333333299
+181,3,GMO & organic,Comment,nytimes,175.0,"Most people want the labels because they believe that GMO food is dangerous, something not supported by any evidence.",27105.0,0.5762406587600708,-0.049999999999999004
+182,3,GMO & organic,Comment,nytimes,175.0,I am not sure if non-GMO foods are healthier to eat but they are certainly better for the environment.,27099.0,0.575178861618042,0.125
+183,3,GMO & organic,Comment,nytimes,175.0,"The idea that GMO food, which has been consumed now for less than 15 years, has been ""the most studied"" is nonsense, and in most cases the people funding the studies are the companies such as Monsanto that stand to benefit from ""safe"" results.",27208.0,0.5737611055374146,0.266666666666666
+184,3,GMO & organic,Comment,nytimes,175.0,"I think that it is important for all supermarkets, not just Whole Foods, to label their foods as genetically modified.",27545.0,0.5725772380828857,0.30000000000000004
+185,3,GMO & organic,Comment,nytimes,175.0,"Of course General Mills, Pillsbury and Kellogg's use GMO grains in all their products made with grains.",26695.0,0.5711294412612915,0.05
+186,3,GMO & organic,Comment,nytimes,175.0,"That said, I do not oppose labeling, however, I do not think that this will cause people to rise up and reject GMO foods, which seems to be the hidden assumption of most labeling supporters.",27277.0,0.568922758102417,0.16666666666666602
+187,3,GMO & organic,Comment,nytimes,175.0,Getting a standard-bearer like Whole Foods to insist on GMO labeling is the next best alternative.,26703.0,0.5687954425811768,0.39999999999999897
+188,3,GMO & organic,Comment,nytimes,175.0,I understand the benefits and hazards of GMOs and do not think most pose a hazard but I do want to know whether or not my food does contain GMO's without the only option of buying organic.,27270.0,0.5684475898742676,0.25
+189,3,GMO & organic,Comment,nytimes,175.0,"Rich, GMOs have done no such thing for pesticide use.",27132.0,0.5676066875457764,0.1875
+190,3,GMO & organic,Comment,nytimes,175.0,"I hope that companies which claim to be healthy, like Kashi, but, which, to my understanding, use GMO soy and other GMO ingredients in their products, actually remove the GMO ingredients from their products prior to the 5-year period discussed above.",26997.0,0.5673448443412781,0.075
+191,3,GMO & organic,Comment,nytimes,175.0,"I think that a lot of people are having a reflexive reaction to the fact that companies like Monsanto are behind these ingredients, and do not stop to consider the science behind them.",27363.0,0.5658385157585144,-0.4
+192,3,GMO & organic,Comment,nytimes,175.0,"Regardless of your stance on the safety of GMO food, people should be able to make an informed choice one way or another based.",26749.0,0.5623108744621277,0.5
+193,3,GMO & organic,Comment,nytimes,175.0,GMOs are too new to be deemed safe for humans.,27442.0,0.5604783892631531,0.31818181818181795
+194,3,GMO & organic,Comment,nytimes,175.0,"I believe that genetically modified foods are examples of great agricultural advances over the past several decades, and pose no danger to anyone.",27477.0,0.5597199201583862,0.18333333333333304
+195,3,GMO & organic,Comment,nytimes,175.0,Not a single scientific study has found that genetically modified foods cause any harm.,27539.0,0.558801531791687,0.035714285714285005
+196,3,GMO & organic,Comment,nytimes,175.0,I do not see anything wrong with labelling GMO foods.,27479.0,0.5577095746994019,-0.5
+197,3,GMO & organic,Comment,nytimes,175.0,Many people have allergic reactions to GMO food that can be life threatening.,26907.0,0.5558158159255981,0.5
+198,3,GMO & organic,Comment,nytimes,175.0,Many people have allergic reactions to GMO food that can be life threatening.,26965.0,0.5558158159255981,0.5
+199,3,GMO & organic,Comment,nytimes,175.0,That difference is what makes GMOs so very frightening to many concerned people.,27053.0,0.5532524585723877,-0.07500000000000001
+200,3,GMO & organic,Comment,nytimes,175.0,"There may be no evidence GMO food is dangerous, but there is no evidence that it is not.",27142.0,0.5526520013809204,-0.6000000000000001
+201,3,GMO & organic,Comment,nytimes,175.0,"What will happen is that the sales of foods labeled GMO-free will skyrocket, and big corporate food producers will realize that given a choice, people will choose foods that are chemical/pesticide free.",27414.0,0.551499605178833,0.133333333333333
+202,3,GMO & organic,Comment,nytimes,175.0,you are correct; there is no categorical difference between GMOs and the sort of plant breeding that has taken place over the past several thousand years.,27086.0,0.5509429574012756,-0.125
+203,3,GMO & organic,Comment,nytimes,175.0,"Now maybe Whole Foods will stop putting canola oil, which more often than not is GMO or contaminated with same, into nearly everything they sell.",26706.0,0.5497796535491943,0.19999999999999898
+204,3,GMO & organic,Comment,nytimes,175.0,GMO and non-GMO to explain why we have so many ffood allergies now compared to 25 years ago.,27580.0,0.5495744943618774,0.5
+205,3,GMO & organic,Comment,nytimes,175.0,"In addition to the uncertain long term effects of GMO's (we are the guinea pigs here), there is also the threat to bio diversity.",27193.0,0.5489468574523926,-0.05
+206,3,GMO & organic,Comment,nytimes,175.0,"Before 5 years goes by, I bet Whole Foods and the manufacturers of products containing GMO's will be required by law to label the stuff they sell containing GMO's.",27224.0,0.5481907129287721,0.2
+207,3,GMO & organic,Comment,nytimes,175.0,Whole Foods never claimed not to sell GMO foods.,26781.0,0.5478744506835938,0.2
+208,3,GMO & organic,Comment,nytimes,175.0,"GM pollen, superweeds and other fruits of Monsanto's corrupt and unethical practices have already been unleashed and may not be able to be contained.",26888.0,0.5477226972579956,-0.041666666666666005
+209,3,GMO & organic,Comment,nytimes,175.0,"Be they safe of not for human health (and time will tell), GMO's skew what would have been the normal and natural evolution of these species.",27196.0,0.5473472476005554,0.1875
+210,3,GMO & organic,Comment,nytimes,175.0,"They have for years identified foods containing ingredients from gm crops as not being allowed, so in effect a small percentage of what they carry will be impacted.",27171.0,0.5463442802429199,-0.25
+211,3,GMO & organic,Comment,nytimes,175.0,"If GMO is harmless, it should not matter, right?",27467.0,0.5459551215171814,0.28571428571428503
+212,3,GMO & organic,Comment,nytimes,175.0,Many of us are starting boycotts of any company that uses any GMO food ingredients in any of its products.,26976.0,0.5457882881164551,0.25
+213,3,GMO & organic,Comment,nytimes,175.0,"The fact that Monsanto uses GMO technology, does not make the technology responsible for the sins of Monsanto.",26889.0,0.5456554889678955,0.2
+214,3,GMO & organic,Comment,nytimes,175.0,"How can we trust that ""organic"" really is or that ""non-GMO"" really is?",27011.0,0.5453546643257141,0.2
+215,3,GMO & organic,Comment,nytimes,175.0,The health consequences of eating genetically modified organisms are largely unknown and have not been shown to be safe to eat-there may be unpredictable consequences.,27347.0,0.5449826121330261,0.077777777777777
+216,3,GMO & organic,Comment,nytimes,175.0,"No matter how much information you give me about bio-technology, I am not going to put GMO food in my body.",27141.0,0.5426902770996094,0.2
+217,3,GMO & organic,Comment,nytimes,175.0,A major threat of genetically modified food comes in the form of modifying genes to induce insecticide resistance such as Round-up Ready corn.,27070.0,0.5411105155944824,0.08750000000000001
+218,3,GMO & organic,Comment,nytimes,175.0,"What data there is, done before Monsanto put the clamp down on scientists, showed clear harms from the foods.",27291.0,0.54036945104599,-0.027777777777777003
+219,3,GMO & organic,Comment,nytimes,175.0,I do not care what lobbyists and special interest groups think; the issue of GMOs is strictly a scientific one.,27360.0,0.5399014949798584,0.35714285714285704
+220,3,GMO & organic,Comment,nytimes,175.0,"Now if the dairy industry gets its way with the FDA, I hope they demand that any dairy products sold in its stores that contain aspartame or other artificial sweeteners will also have to be labeled.",27095.0,0.5387766361236572,-0.3625
+221,3,GMO & organic,Comment,nytimes,175.0,"GMO labeling legislation should be how we deal with this issue, but mountains of lobbyist cash and Big Food propaganda will not allow it.",26702.0,0.5375998020172119,-0.05
+222,3,GMO & organic,Comment,nytimes,175.0,Exactly how do you know there is no difference between GMO and non-GMO foods?,26947.0,0.5362274050712585,0.25
+223,3,GMO & organic,Comment,nytimes,175.0,"No agricultural plants are per se regulated by FDA, although certain plant products may be regulated as drugs.",27234.0,0.5346491932868958,0.214285714285714
+224,3,GMO & organic,Comment,nytimes,175.0,"Whole Foods carries many fruits and vegetables that are not organic, but they clearly label them as such when they are put on sale.",27016.0,0.5345803499221802,0.19999999999999898
+225,3,GMO & organic,Comment,nytimes,175.0,Drinking pesticide they are also forced to buy from Monsanto.,27117.0,0.5341258645057678,-0.30000000000000004
+226,3,GMO & organic,Comment,nytimes,175.0,"""Having a bad reaction from eating GMO food"" or ""being able to distinguish GMO from non-GMO by taste"" is a completely different argument.",26816.0,0.5308854579925537,-0.06666666666666599
+227,3,GMO & organic,Comment,nytimes,175.0,"If Whole Foods had made that claim, or done something more serious such as banning GMO from their stores, I could understand your position.",26817.0,0.5294374823570251,0.091666666666666
+228,3,GMO & organic,Comment,nytimes,175.0,say what you will about the science behind GMOs.,27436.0,0.5294225811958313,-0.4
+229,3,GMO & organic,Comment,nytimes,175.0,"The European Union has banned GMOs, as have Australia, Japan, the UK and two dozen other countries that recognize that a lack of long term studies and testing may be hiding disastrous health defects.",27351.0,0.5294200181961061,-0.21875000000000006
+230,3,GMO & organic,Comment,nytimes,175.0,Richard Huber: that is not true if you have an allergic reaction to GMO foods.,26960.0,0.5292922258377075,-0.17500000000000002
+231,3,GMO & organic,Comment,nytimes,175.0,"You have, honestly, no idea whether GMO food is safe any more than you could determine that stents, Vioxx, female hormone therapy or dozens of other medically ""safe"" drugs and procedures were safe-until, oops, they weren't.",27209.0,0.5285781621932983,0.179166666666666
+232,3,GMO & organic,Comment,nytimes,175.0,"So in five years Whole Foods will be the first to label genetically modified food is all usual hype, Where all that counts is profits.",27330.0,0.5279093980789185,0.06666666666666599
+233,3,GMO & organic,Comment,nytimes,175.0,But its unethical to be against accurate labeling just because your personal values have no opinion on GMOs.,26821.0,0.5267254114151001,0.2
+234,3,GMO & organic,Comment,nytimes,175.0,"that is part of the problem, we do not know, we are all guinea pigs for Monsanto and other GM food companies.",26838.0,0.5260041356086731,-0.125
+235,3,GMO & organic,Comment,nytimes,175.0,"Whole Foods was the first big chain to endorse Non-GMO labelling, they sit on the board of the Non-GMO Project, the only private, independent GMO testing and verification labeling effort in the country.",26743.0,0.5238159894943237,0.075
+236,3,GMO & organic,Comment,nytimes,175.0,A in diets that introduction may have also made that GMO rice an allergen to people sensitive to daffodils and related plants.,26957.0,0.5236753821372986,0.05
+237,3,GMO & organic,Comment,nytimes,175.0,"Unfortunately, most of the studies that end up getting reported in the States were funded by non other than Monsanto.",27192.0,0.5234208106994629,0.1875
+238,3,GMO & organic,Comment,nytimes,175.0,Monsanto was advised by McKinsey and Co. many years ago to get into the seed business.,27118.0,0.5207066535949707,0.5
+239,3,GMO & organic,Comment,nytimes,175.0,"There is very little data on GMO, b/c the owners of the patents do not allow scientists access to the products - an unprecedented situation, supported by the Roberts court.",27290.0,0.5176299214363098,0.178124999999999
+240,3,GMO & organic,Comment,nytimes,175.0,The fear of GMOs is the equivalent of climate change denialism in terms of complete scientific ignorance.,27242.0,0.5174765586853027,0.1
+241,3,GMO & organic,Comment,nytimes,175.0,GM means that genetic material has been taken from another species and inserted into seeds that will change the very chemical makeup of that food.,27111.0,0.5133243203163147,0.2
+242,3,GMO & organic,Comment,nytimes,175.0,"If they are shown to have no adverse effects on the environment and our bodies, who really cares if the food we eat has been genetically modified?",27361.0,0.5120160579681396,0.2
+243,3,GMO & organic,Comment,nytimes,175.0,I too belong to a food co-op that is stringent about not allowing genetically-modified food on its shelves; they only sell organic produce and dry goods.,27322.0,0.5119847059249878,-0.03333333333333299
+244,3,GMO & organic,Comment,nytimes,175.0,"it is the added fructose, sodium, trans fats, saturated fats, and cholesterol that we should worry about, and whether the food is fresh, not whether it has been genetically improved.",27425.0,0.5118322968482971,0.30000000000000004
+245,3,GMO & organic,Comment,nytimes,175.0,The GMO controversy is silly.,27513.0,0.5110905170440674,-0.5
+246,3,GMO & organic,Comment,nytimes,175.0,It is food that has had artificially mutated genes added from other organisms.,27037.0,0.5107173919677734,-0.3625
+247,3,GMO & organic,Comment,nytimes,175.0,"), I will be accepting of GMO crops; until then, I demand that readily-accessible information be made available to me - on the product's label will be just fine - in order that I might make an informed choice about buying/eating it.",26765.0,0.5097133517265321,0.40833333333333305
+248,3,GMO & organic,Comment,nytimes,175.0,Ummm Whole Foods sells conventional and organic so why would it be strange to see them buying conventional produce?,27021.0,0.5087071061134338,-0.033928571428570996
+249,3,GMO & organic,Comment,nytimes,175.0,It is also worth noting that the company that produces the bulk of GMO's also is the same company that brought us Agent Orange (and now suggests that that may need to be used to keep the Roud-Up Ready resistant weeds at bay).,27204.0,0.5056059360504149,0.16666666666666602
+250,3,GMO & organic,Comment,nytimes,175.0,"Generally speaking, 'GMO' refers to organisms whose DNA was modified by means of gene splicing, rather than the more traditional methods of breeding/cross breeding.",27033.0,0.5040993094444275,0.18333333333333304
+251,3,GMO & organic,Comment,nytimes,175.0,This is good news for those of us allergic to genetically modified foods.,27493.0,0.5016889572143555,0.7000000000000001
+252,3,GMO & organic,Comment,nytimes,175.0,"Another lady writes that GMO tomatoes that are modified to keep fresh longer are ""harboring"" bacteria while they stay fresh and freaks out about eating bacteria.",27523.0,0.5015163421630859,0.30000000000000004
+253,3,GMO & organic,Comment,nytimes,175.0,This shows that Whole Foods has joined the ranks of the climate change deniers in that they endorse junk science.,27538.0,0.5007320642471313,0.2
+254,3,GMO & organic,Comment,nytimes,175.0,You would greatly benefit from doing just a little bit of reading on GMOs.,27051.0,0.5006343126296997,0.30625
+255,3,GMO & organic,Comment,nytimes,175.0,And companies like Whole Foods may need 5 years to change their labels if the food processing companies first have to find someone to grow the traditional crops a year or more in advance.,27385.0,0.4958436489105225,0.2375
+256,3,GMO & organic,Comment,nytimes,175.0,"That being said, it still takes time to move a very big and very resistant group of suppliers, so giving them lead time is fine and gives strength to the legislative movement for GMO labeling.",26801.0,0.4951597154140472,0.20555555555555505
+257,3,GMO & organic,Comment,nytimes,175.0,"So if we are going to label food as genetically modified then everything, except or maybe wild caught fish o game would have to be so labelled.",27392.0,0.4946624934673309,-0.15000000000000002
+258,3,GMO & organic,Comment,nytimes,175.0,"Then there are the artificial genes added to elongate the shelf life of produce, which means that it will hold way more bacteria before rotting.",27044.0,0.4929775297641754,-0.049999999999999004
+259,3,GMO & organic,Comment,nytimes,175.0,where is the science the GMOs are safe?,27284.0,0.4921534657478333,0.5
+260,3,GMO & organic,Comment,nytimes,175.0,"No doubt that his is a movement that started in co-ops and whole foods but, if you were paying attention, you would see Non-GMO Project labeling on products in all supermarkets.",26856.0,0.4912826716899872,0.2
+261,3,GMO & organic,Comment,nytimes,175.0,"In America, they aren’t even labeled, much less banned, so the majority of the populace has no idea that they are eating lab-created DNA on a daily basis.",27355.0,0.4904683232307434,-0.08333333333333301
+262,3,GMO & organic,Comment,nytimes,175.0,Afraid to draw attention to how many of their suppliers and products contain GMOs?,26794.0,0.4896987080574036,-0.049999999999999004
+263,3,GMO & organic,Comment,nytimes,175.0,"it is a step in the right direction simply because it gives the consumer more information, not unlike the Nutrition Fact chart on all products.",27439.0,0.488673985004425,0.26190476190476103
+264,3,GMO & organic,Comment,nytimes,175.0,The fact that these sort of changes probably would not take place naturally is not important for the same reason that corn would probably not arise naturally is unimportant.,27088.0,0.486149400472641,-0.2
+265,3,GMO & organic,Comment,nytimes,175.0,"If GM crops are so great, let the companies who make them be proud and put their name on them.",26843.0,0.4857138395309448,0.8
+266,3,GMO & organic,Comment,nytimes,175.0,"We are surrounded by intrusive corporate marketing nearly everywhere, strange how Monsanto and the like are fighting so hard NOT to have their name out there or their products identified.",26844.0,0.483617901802063,-0.060416666666666015
+267,3,GMO & organic,Comment,nytimes,175.0,"During some seasons of the year organic produce is not available and the non organic items are carried to satisfy customers who want to buy the product anyway, as well as those who prefer to pay less for their produce.",27017.0,0.4811237454414368,-0.18333333333333304
+268,3,GMO & organic,Comment,nytimes,175.0,So it is a little different than simply accelerating natural breeding; and its goal is to allow the use of more chemicals.,26825.0,0.4795597791671753,0.08249999999999902
+269,3,GMO & organic,Comment,nytimes,175.0,"Most of all, most selective breeding and modification has been open to all to benefit and not controlled by 2 - 3 companies wielding patents over the food chain.",26763.0,0.4768607616424561,0.33333333333333304
+270,3,GMO & organic,Comment,nytimes,175.0,I do not work for WF and I am not endorsing all their policies but this is huge and very good for the GMO labeling movement.,26745.0,0.4691370725631714,0.655
+271,3,GMO & organic,Comment,nytimes,175.0,"Regarding food labeling and ingredients and transparency, though, I think that the more useful, informative, and complete labels can be, the better.",27400.0,0.4688936471939087,0.35000000000000003
+272,3,GMO & organic,Comment,nytimes,175.0,There are many INDUSTRIAL and NON-FOOD uses for corn as well.,26914.0,0.467420905828476,0.5
+273,3,GMO & organic,Comment,nytimes,175.0,"Just like the tobacco industry, the proponents of GMO foods will fight this for years; I am glad Whole Foods is at least on the bandwagon, although I think 5 years is a ridiculously long to wait for truth in packaging.",26753.0,0.4666221737861633,0.08750000000000001
+274,3,GMO & organic,Comment,nytimes,175.0,"<a href=""http://shopOrganic.com"" title=""shopOrganic.com"" target=""_blank"">shopOrganic.com</a> only offers organic and GMO-free, they made that move last year - so I do not understand why Whole Foods, looking 5 years out, is getting so much press.",27536.0,0.4661113619804382,0.08333333333333301
+275,3,GMO & organic,Comment,nytimes,175.0,"Like WFM, TJ's is a store I enjoy, but do not kid yourself that the absence of GMO means wholesomeness or quality.",27165.0,0.4654766321182251,0.19375
+276,3,GMO & organic,Comment,nytimes,175.0,"Does that include, corn, wheat, apples, grapes, other fruits and vegetable , most of all that are genetically modified for decades and acceptable for people to use every day.",27155.0,0.4625893533229828,0.1875
+277,3,GMO & organic,Comment,nytimes,175.0,And the timeline for studying Monsanto effects has been how many years?,27275.0,0.4604088664054871,0.5
+278,3,GMO & organic,Comment,nytimes,175.0,"The reality is genetically modified food like corn, wheat, soya, eggs, fresh fruits / vegetable have been sold in the US, UK, EU for over a decade or more.",27325.0,0.4597756266593933,0.4
+279,3,GMO & organic,Comment,nytimes,175.0,"do not give Cheerios, or any other cheap packaged garbage to your kids until the results are in on the effects of GMO food products on human health.",26696.0,0.4586468935012818,0.091666666666666
+280,3,GMO & organic,Comment,nytimes,175.0,"I have boycotted them for at least five years, and the announcement a few years ago that GMOs were detected in some of their house-brand foods was confirmation to me that I did the right thing.",27321.0,0.4582246541976929,-0.07142857142857101
+281,3,GMO & organic,Comment,nytimes,175.0,It is meticulously documented showing how government agencies under political pressure from the biotech industry have hidden facts and spun the public rhetoric to be misleading.,27548.0,0.4564608335494995,-0.055555555555555004
+282,3,GMO & organic,Comment,nytimes,175.0,"exactly what is the definition of ""genetically modified"" food?",27026.0,0.4554863572120666,0.25
+283,3,GMO & organic,Comment,nytimes,175.0,I would like to see one comment about a person having a bad reaction from eating GMO food.,26802.0,0.4544082283973694,-0.6999999999999991
+284,3,GMO & organic,Comment,nytimes,175.0,"Problem is that all over the US, weeds' resistance to Monsanto's Roundup - once considered unfathomable or impossible by all those serious people in white coats - has grown exponentially.",27256.0,0.4542902112007141,-0.33333333333333304
+285,3,GMO & organic,Comment,nytimes,175.0,I applaud WF's decision because I try to steer clear of GMOs and now I will have more info.,27491.0,0.4530341327190399,0.30000000000000004
+286,3,GMO & organic,Comment,nytimes,175.0,that is what they said about margarine/tobacco/HFCS/ artificial sweeteners/soft drinks/tylenol/DDT/and a host of other artificial junk perpetrated upon us for profit.,27110.0,0.4515417814254761,-0.4416666666666661
+287,3,GMO & organic,Comment,nytimes,175.0,"Why is it then when a country insists on GMO labels the US takes them to court, but when a private company does it, it is all right?",27228.0,0.45003050565719604,0.14285714285714202
+288,3,GMO & organic,Comment,nytimes,175.0,"Probably - but it is hard to be sure, especially when a huge corporation (Monsanto) needs it to be safe.",26827.0,0.4496381580829621,0.221666666666666
+289,3,GMO & organic,Comment,nytimes,175.0,"A regular person would have little or no way to know for certain they had a bad reaction specifically to a GM crop, since they are not presently labeled here in the US.",26837.0,0.4464934468269348,-0.134642857142857
+290,3,GMO & organic,Comment,nytimes,175.0,"By ""non-partisan"" I mean scientific and nutritionist experts who are not paid or encouraged by any company *or* the government.",27406.0,0.4436782002449036,-0.3125
+291,3,GMO & organic,Comment,nytimes,175.0,"I am not opposed to the right to know, but what good is ""more information"" when the consumer is misinformed about bio-technology?",27104.0,0.4436710476875305,0.495238095238095
+292,3,GMO & organic,Comment,nytimes,175.0,You say the people against GM food are silly and stupid but I ask you where is your data that these experiments with our food chain are safe?,27080.0,0.4420924186706543,-0.266666666666666
+293,3,GMO & organic,Comment,nytimes,175.0,"However, this policy is about labeling and allowing consumers who have their own personal (religious, medical, spiritual, whatnot) reasons to make an informed choice.",26818.0,0.42187273502349854,0.12
+294,3,GMO & organic,Comment,nytimes,175.0,"I discovered I was allergic to GMO corn when I began having an allergic reaction with my throat swelling and constricting every time I ate my favorite breakfast cereal, Corn Chex.",26961.0,0.4216932058334351,0.5
+295,3,GMO & organic,Comment,nytimes,175.0,"Maybe we would not need to infringe on personal liberties by banning large, sugary drinks if the ""wonder"" of GM corn did not make them so cheap and, therefore, so easy to consume in abundance.",27186.0,0.4210996627807617,0.26190476190476103
+296,3,GMO & organic,Comment,nytimes,175.0,"""I would like to see one comment about a person having a bad reaction from eating GMO food."".",26836.0,0.4119179248809815,-0.6999999999999991
+297,3,GMO & organic,Comment,nytimes,175.0,"One guy writes how he developed an allergy to his Corn Chex, and after some time realize that his allergy emerged around the same time as Corn Chex started using GMO corn.",27515.0,0.39451318979263306,0.05
+298,3,GMO & organic,Comment,nytimes,175.0,"Francois: I discovered I was allergic to GMO corn when I began having an allergic reaction with my throat swelling and constricting every time I ate my favorite breakfast cereal, Corn Chex.",26903.0,0.3913625478744507,0.5
+299,3,GMO & organic,Comment,nytimes,175.0,"Why not make the Label itself for the Product, Can, Jar, or Box a Bright Color.",26985.0,0.27991098165512085,0.7000000000000001
+300,4,Garbage 2,Comment,,,,,,
+301,5,Food products & taste,Comment,nytimes,175.0,Roundup ready soybeans and grains have a lot of Roundup residue.,26958.0,0.4011872410774231,0.2
+302,5,Food products & taste,Comment,nytimes,175.0,For example the higher fiber harvest wheat crumpets are discontinued along with higher fiber sugar free small sized pudding cups.,27167.0,0.3615942299365997,0.1625
+303,5,Food products & taste,Comment,nytimes,175.0,I cannot tell you how many times I have opened the plastic wrapped veggies or chopped mixes from TJ's only to find broccoli that is black with decay at the cut or peppers rotting in plastic containers.,27164.0,0.36094799637794495,0.111111111111111
+304,5,Food products & taste,Comment,nytimes,175.0,"That was many years ago and when I noticed the taste of chicken from the supermarket seemed different, not fresh, I stopped eating it.",27534.0,0.33587121963500977,-0.062499999999999015
+305,5,Food products & taste,Comment,nytimes,175.0,"Corn can be found in more than 3,500 different products.",26915.0,0.33108392357826233,0.25
+306,5,Food products & taste,Comment,nytimes,175.0,"I have always thought the best way to sell food would be to slap a label on it that says ""Low Cyanide!"".",27454.0,0.3123752176761627,0.5
+307,5,Food products & taste,Comment,nytimes,175.0,I discovered a few years later that Chex had switched to GMO corn and figured it out.,26906.0,0.28008583188056946,-0.1
+308,5,Food products & taste,Comment,nytimes,175.0,I discovered a few years later that Chex had switched to GMO corn and figured it out.,26964.0,0.28008583188056946,-0.1
+309,5,Food products & taste,Comment,nytimes,175.0,round-up ready soy beans).,26813.0,0.2777221202850342,0.2
+310,5,Food products & taste,Comment,nytimes,175.0,The more on the label(s) the better.,27426.0,0.2419940531253815,0.5
+311,6,Food safety,Comment,nytimes,175.0,These additives may or may not have a long term effect on humans.,26925.0,0.4928781986236572,-0.05
+312,6,Food safety,Comment,nytimes,175.0,"And of course, lack of magnesium, manganese, zinc, and other essential nutrients leads to a compromised immune system that can no longer protect us from disease, including cancer.",27506.0,0.4632930159568786,-0.0625
+313,6,Food safety,Comment,nytimes,175.0,"Actually, for starters, RoundUp Ready soybeans have been shown to have lower concentrations of folic acid - a vitamin that, when consumed in abundance, can help prevent cervical cancer and devastating birth defects in humans.",26979.0,0.4612606465816498,-0.266666666666666
+314,6,Food safety,Comment,nytimes,175.0,"Lack of cobalt in ""RoundUp Ready"" foods can lead to an inability of our body to make vitamin B-12 that regulates cell growth, resulting in sterility and inability to remember.",27505.0,0.4483934938907623,0.2
+315,6,Food safety,Comment,nytimes,175.0,"These ingredients, even if they survive the processing step, would be present in such minute quantity as to be unable to elicit an allergic response.",26978.0,0.4458865821361542,-0.16666666666666602
+316,6,Food safety,Comment,nytimes,175.0,"The Bt-toxin that kills insects by splitting open their stomach, also can often put holes in our gut and the resulting leakage of ""gut contents"" can cause an immune reaction that can result in attention deficit disorder, MS, ALS, and other neurological diseases.",27507.0,0.4458340704441071,-0.0625
+317,6,Food safety,Comment,nytimes,175.0,"As long as we do not introduce chemicals, there should be no difference.",26806.0,0.4335556328296661,-0.05
+318,6,Food safety,Comment,nytimes,175.0,"You may think we are using less herbicides with RoundUpReady, but the concentration used is probably increased by people spraying as they see resistance and secondary chemicals are added to the tanks.",27386.0,0.4314286410808563,-0.23333333333333306
+319,6,Food safety,Comment,nytimes,175.0,"A recent study found that 93 per cent of blood samples taken from pregnant women and 80 per cent from umbilical cords tested positive for traces of Bt toxins, a by-product of GM food.",26776.0,0.4302551448345184,0.186868686868686
+320,6,Food safety,Comment,nytimes,175.0,So exactly with what is the canola oil contaminated?,26715.0,0.4090279936790466,0.25
+321,6,Food safety,Comment,nytimes,175.0,"In any case, the danger, if any, may be increased likelihood of disease that are on the rise in the US, maybe of allergies, autism, etc., rather than an outright negative reaction to once eating GMO food.",26828.0,0.4062885642051697,-0.30000000000000004
+322,6,Food safety,Comment,nytimes,175.0,"These things are poisons, and should not be eaten or allowed to run off into our water supply negatively impacting your health, environment and children’s future.",27353.0,0.3985704183578491,-0.15
+323,6,Food safety,Comment,nytimes,175.0,You are mostly made of bacteria.,27526.0,0.3827077746391296,0.5
+324,6,Food safety,Comment,nytimes,175.0,Even people striving for clean diets would be amazed if they had lab tests done on their tissue and blood samples.,26736.0,0.38086485862731934,0.366666666666666
+325,6,Food safety,Comment,nytimes,175.0,"On the other hand, they do not seem to worry about eating shrimp and swordfish which are high in arsenic and mercury which we KNOW are bad for you.",27453.0,0.3744310736656189,-0.221666666666666
+326,6,Food safety,Comment,nytimes,175.0,Are the chemicals safe?,26826.0,0.3738480508327484,0.5
+327,6,Food safety,Comment,nytimes,175.0,I suspect the incidences of irritable bowel syndrome would decrease significantly if more people knew what Canola can do to a body.,26712.0,0.3577209413051605,0.5
+328,6,Food safety,Comment,nytimes,175.0,Do you remember when mankind felt DDT and Thalidomide were perfectly safe?.,26949.0,0.34127214550971985,0.5
+329,6,Food safety,Comment,nytimes,175.0,"First, he just knows its ""around the same time"" and can in no way know if this allergy started from his first box of GMO Chex.",27517.0,0.33065783977508545,0.16666666666666602
+330,6,Food safety,Comment,nytimes,175.0,A lot of kids today have severe nut allergies and I know adults who developed the allergy as adults and have to carry an epi-pen.,26841.0,0.3264734447002411,0.1
+331,6,Food safety,Comment,nytimes,175.0,it is the sort of modern magic that results in tobacco plants that fluoresce thanks to jelly fish genes.,27034.0,0.3194007873535156,0.30000000000000004
+332,6,Food safety,Comment,nytimes,175.0,"For what it is worth, it took about 20 years before widespread smoking was correlated with cancer and then it took decades before the tobacco industry said, ""well, maybe"".",26927.0,0.31248390674591064,0.30000000000000004
+333,7,Research,Comment,nytimes,175.0,"The bottom line is that genetically modified organisms have not been proven in any way to be safe, and most of the studies are actually leaning the other direction, which is why many of the world’s countries have banned genetically engineered foods.",27354.0,0.4356145262718201,0.275
+334,7,Research,Comment,nytimes,175.0,Another risk is simply the lack of long term testing of the effects of engineered genes.,27073.0,0.3920832574367523,-0.025
+335,7,Research,Comment,nytimes,175.0,"Funny, a billion years of evolution is not good enough for us.",27125.0,0.3775095343589783,-0.03333333333333299
+336,7,Research,Comment,nytimes,175.0,"@JBHoren Scientists are discovering that there has been a lot of horizontal gene transfer already in the natural world, which is just genetic modification by Mother Nature.",26766.0,0.3759065270423889,0.1
+337,7,Research,Comment,nytimes,175.0,It is distressing that so many people who reap the benefits of science every day are so zealously anti-science.,27336.0,0.36748260259628296,0.5
+338,7,Research,Comment,nytimes,175.0,The idea that the use of recombinant DNA technology is better or worse than cross breeding and selection is Luddite nonsense.,27391.0,0.36740386486053467,0.03333333333333299
+339,7,Research,Comment,nytimes,175.0,It would help if you understood the difference between traditional breeding methods to create hybrids and implanting a specific protein coding gene that is far removed from the organism's DNA.,27031.0,0.3668636977672577,0.03333333333333299
+340,7,Research,Comment,nytimes,175.0,"We have to engineer our own species, without any knowledge of interactions and consequences, other than that which goes in our stomachs.",27126.0,0.3651140332221985,0.2375
+341,7,Research,Comment,nytimes,175.0,"When genetic modification through natural selection includes snippets from other species (animal-&gt;plant, etc.",26764.0,0.3641546964645386,-0.012499999999999
+342,7,Research,Comment,nytimes,175.0,"So ""natural"" species do contain snippets from other organisms in their genetic material.",26767.0,0.3637822270393372,-0.012499999999999
+343,7,Research,Comment,nytimes,175.0,it is amazing how 'science' is used by all sorts of people to defend various views - when they have no familiarity with the actual data.,27292.0,0.35711488127708435,0.2
+344,7,Research,Comment,nytimes,175.0,"however, when it comes to science demonstrating harm, there arguments are quite weak.",27476.0,0.3535969853401184,-0.375
+345,7,Research,Comment,nytimes,175.0,Many scientists have pointed this out.,27550.0,0.34630075097084045,0.5
+346,7,Research,Comment,nytimes,175.0,The only thing that has changed is that horticulturists have become more sophisticated and are thus able to be more specific about the genes they change.,27087.0,0.34597870707511896,0.33333333333333304
+347,7,Research,Comment,nytimes,175.0,All of these techniques can result in DNA alterations that are random and unlikely to be limited to one gene.,27059.0,0.3421383500099182,-0.35714285714285704
+348,7,Research,Comment,nytimes,175.0,"There is a vast difference between a simple cross breeding, hybridization, and contemporary genetic modification.",27052.0,0.33882302045822144,0.041666666666666005
+349,7,Research,Comment,nytimes,175.0,"I am a firm believer in the scientific method and as such need more evidence that ""stray"" modified DNA is harmless.",26946.0,0.3385758399963379,0.099999999999999
+350,7,Research,Comment,nytimes,175.0,The sources typically cited by opponents are laughable to anyone with a working knowledge of science.,27106.0,0.3352685570716858,-0.33333333333333304
+351,7,Research,Comment,nytimes,175.0,"a genetic mutation or modification is a genetic mutation, and they happen on a continual basis, ""natural"" and manmade.",27029.0,0.33255916833877563,0.1
+352,7,Research,Comment,nytimes,175.0,The right peddles myths about scientific debate over human-caused climate change and evolution - areas where there is absolutely no scientific debate.,27334.0,0.3325222134590149,0.092857142857142
+353,7,Research,Comment,nytimes,175.0,"In contrast, transgene splicing is a much more precise technique in which the exact nature of the DNA alteration can be monitored in detail.",27062.0,0.32983970642089844,0.3833333333333329
+354,7,Research,Comment,nytimes,175.0,This is manipulation of a type that does not occur in the natural world.,27075.0,0.3291263878345489,0.1
+355,7,Research,Comment,nytimes,175.0,There is a limit-long since surpassed-to which the human species should be able to intervene and change the nature of things.,27198.0,0.326287180185318,0.25
+356,7,Research,Comment,nytimes,175.0,"The only thing about this article that kills me is that an entity named ""Cornucopia Institute"" apparently opposes the scientific advancement in the last one hundred years with the most potential to relieve global food shortage and hunger.",26899.0,0.3238749206066132,0.091666666666666
+357,7,Research,Comment,nytimes,175.0,"Context is important, even in science.",27267.0,0.3219694495201111,0.4
+358,7,Research,Comment,nytimes,175.0,"As long as the Europeans were practically alone in labeling, the bio-segment could never reach critical mass world wide.",26894.0,0.3149372041225433,-0.05
+359,7,Research,Comment,nytimes,175.0,"""the sources typically cited by opponents are laughable to anyone with a working knowledge of science"".",27109.0,0.3147140145301819,-0.33333333333333304
+360,7,Research,Comment,nytimes,175.0,"Actually, I think that many genetic modifications are brilliant.",27377.0,0.31424134969711304,0.4666666666666661
+361,7,Research,Comment,nytimes,175.0,Ummm.yeah it is the most studied.,27191.0,0.3058384656906128,0.5
+362,7,Research,Comment,nytimes,175.0,"And when I am hankering for a genetically modified organism, there is sure to be an ample selection!",27588.0,0.3016363382339477,0.625
+363,7,Research,Comment,nytimes,175.0,The problem is that the education required to have a better grasp on the subject is more than the average and intelligent citizen has.,27032.0,0.3001036942005157,0.296666666666666
+364,7,Research,Comment,nytimes,175.0,"The conservatives on the other hand, are denying climate change with the peril of our planet possibly just around the corner.",26934.0,0.2884313464164734,-0.0625
+365,7,Research,Comment,nytimes,175.0,In most of these cases the actual site and extent of the DNA alteration is completely unknown.,27060.0,0.28530049324035645,0.133333333333333
+366,7,Research,Comment,nytimes,175.0,"Indeed, I am certain they would be glad if global warming does not occur.",27265.0,0.27603256702423096,0.23809523809523805
+367,7,Research,Comment,nytimes,175.0,"Never the less, these techniques have been in use for decades without much expressed concern.",27061.0,0.2558462619781494,0.016666666666666
+368,7,Research,Comment,nytimes,175.0,GM technology is one of the most studied from a safety standpoint.,27173.0,0.2534512281417847,0.5
+369,7,Research,Comment,nytimes,175.0,But what we have in this country is an education or intelligence gap - far more threatening than the imaginary missile gap of 50 years ago.,27481.0,0.250699520111084,0.30000000000000004
+370,7,Research,Comment,nytimes,175.0,"In addition, 90 per cent of the population wants labeling.",27084.0,0.24673323333263397,0.2
+371,7,Research,Comment,nytimes,175.0,We should have the right to know what it is we are putting in our bodies.,26814.0,0.2432373613119125,0.28571428571428503
+372,7,Research,Comment,nytimes,175.0,"A must read is Altered Genes, Twisted Truth by Steven Druker, easily available as ebook and soon in paper.",27547.0,0.2413409650325775,-0.049999999999999004
+373,7,Research,Comment,nytimes,175.0,"and guns, and cars, are more likely to kill us.",27067.0,0.2232072651386261,0.25
+374,7,Research,Comment,nytimes,175.0,This article is so interesting!,27542.0,0.19069281220436096,0.625
+375,7,Research,Comment,nytimes,175.0,"I know this sounds incredible, but for proof, see ""The Botany of Desire"" ty Michael Pollan.",27232.0,0.18867512047290802,0.9
+376,8,Health & nutrition,Comment,nytimes,175.0,Whenever I go shopping at the grocery store I always try to buy the healthiest and most organic foods because I personally believe the less genetically modified foods you eat the better.,27543.0,0.531696617603302,0.208333333333333
+377,8,Health & nutrition,Comment,nytimes,175.0,Our food supply has been run only for profit and not for the consumers health and general well-being.,27535.0,0.523608386516571,0.025
+378,8,Health & nutrition,Comment,nytimes,175.0,Not everyone wants to eliminate GM foods because of health reasons.,27258.0,0.4991326928138733,0.2
+379,8,Health & nutrition,Comment,nytimes,175.0,"There is so much messing around with real, wholesome food that has dubious benefit except (probably) the bottom line of the companies whose products go into the ""messing around.""",27404.0,0.4990469217300415,0.2
+380,8,Health & nutrition,Comment,nytimes,175.0,"The rest of the ""lowly 90%"" could set higher food standards for themselves and do the same (if they are not already)!",26865.0,0.4967326521873474,0.08333333333333301
+381,8,Health & nutrition,Comment,nytimes,175.0,"Personally, I am not opposed to genetically modified foods in any absolute manner.",26723.0,0.49662792682647705,0.1
+382,8,Health & nutrition,Comment,nytimes,175.0,We should be more worried about US agricultural policies that make food more expensive for poor people around the world.,27512.0,0.4932650327682495,0.024999999999999
+383,8,Health & nutrition,Comment,nytimes,175.0,Now we have GMO foods that help poor people get more food for their money.,27511.0,0.4866421818733215,0.049999999999999004
+384,8,Health & nutrition,Comment,nytimes,175.0,As long as I have the right to buy genetically modified foods at reasonable prices I guess it does not matter.,27375.0,0.4829539060592651,0.145238095238095
+385,8,Health & nutrition,Comment,nytimes,175.0,"When trans-fats were first introduced, corporations battled to get them onto your grocery shelves–and it is only decades later that this once novel food has been proven to be extremely unhealthful.",27348.0,0.4747735857963562,0.03125
+386,8,Health & nutrition,Comment,nytimes,175.0,Food is the most preventative medicine there is and people should take it seriously.,26750.0,0.47053515911102295,0.08333333333333301
+387,8,Health & nutrition,Comment,nytimes,175.0,Their absurdly small portion sizes make the nutrition labeling deceptive to anyone who is not paying close attention; it is easy to consume more than 60 grams of fat and a couple days worth of sodium eating a reasonably sized meal.,27163.0,0.465084969997406,0.23666666666666605
+388,8,Health & nutrition,Comment,nytimes,175.0,"As far as a bad reaction to GMO, look at the obesity rates in the United States v. Europe and Asia.",26810.0,0.4644647836685181,-0.29999999999999905
+389,8,Health & nutrition,Comment,nytimes,175.0,"We also suffer from the lack of metal nutrients in all ""RoundUp Ready"" foods.",27495.0,0.4590915441513062,0.2
+390,8,Health & nutrition,Comment,nytimes,175.0,"Organic, non-GMO cheese puffs will still make most of us fat.",27154.0,0.4577461183071137,0.5
+391,8,Health & nutrition,Comment,nytimes,175.0,"Other food allergies to wheat, soy, etc, are also on the rise.",26842.0,0.4563567340373993,-0.125
+392,8,Health & nutrition,Comment,nytimes,175.0,Why not simply skip a few steps in the process and genetically modify the American consumers so that they gain those extra 50 lbs without all the excessive consumption of natural resources used in the food production process.,27356.0,0.454187273979187,-0.058333333333333
+393,8,Health & nutrition,Comment,nytimes,175.0,But this is really no way to establish a sane food labeling regime.,27370.0,0.45328235626220703,-0.1
+394,8,Health & nutrition,Comment,nytimes,175.0,Not in business to promote healthy eating.,27168.0,0.448597252368927,0.5
+395,8,Health & nutrition,Comment,nytimes,175.0,"And I agree with the person who commented about how only those who can afford to shop at WF will be assured their foods are that much healthier, while the vast majority shops in less enlightened stores.",26797.0,0.4484579265117645,0.008333333333333
+396,8,Health & nutrition,Comment,nytimes,175.0,"), one can eat a wholly organic diet on a meager budget.",26864.0,0.4471534490585327,-0.6000000000000001
+397,8,Health & nutrition,Comment,nytimes,175.0,"I do think it is important to know what is in our food, but all these companies and interest groups are clouding the issue.",27364.0,0.4343505799770355,0.4
+398,8,Health & nutrition,Comment,nytimes,175.0,"and exactly what is the threat of ""genetically modified"" food?",27028.0,0.4327113032341003,0.25
+399,8,Health & nutrition,Comment,nytimes,175.0,Do you think ALL whole foods customers are THAT ill informed?,27222.0,0.4322390556335449,-0.15
+400,8,Health & nutrition,Comment,nytimes,175.0,it is our food dollars and our health and people who do not want to eat GMO foods have that right and we are going to fight to secure that right.,26975.0,0.4287795424461365,0.32380952380952305
+401,8,Health & nutrition,Comment,nytimes,175.0,"Always amazing when the Republicans, who preach the ""free market"" and laud ""consumer choice,"" back the giant multinational corporations and refuse to let consumers see labels as to whether their food is genetically modified or treated with radiation, etc.",26722.0,0.4262978732585907,0.25
+402,8,Health & nutrition,Comment,nytimes,175.0,"The liberals are just asking for the food to be labeled, so they can make their own choice based on the data out there.",26930.0,0.4262817800045013,0.6000000000000001
+403,8,Health & nutrition,Comment,nytimes,175.0,But to know that even those foods have some genetic modification to them is crazy.,27544.0,0.4210440516471863,-0.6000000000000001
+404,8,Health & nutrition,Comment,nytimes,175.0,Why should we deserve healthy food and good doctors in a free market?,26851.0,0.41058841347694397,0.5333333333333329
+405,8,Health & nutrition,Comment,nytimes,175.0,Their starvation rate is higher than it is ever been in it is history.,27114.0,0.4098366498947144,0.25
+406,8,Health & nutrition,Comment,nytimes,175.0,The author advised the readers to examine each processed food before buying and if any of these three items in one name or another was listed within the top three ingredients NOT TO BUY IT.,26831.0,0.4090333878993988,0.5
+407,8,Health & nutrition,Comment,nytimes,175.0,The wealthy in America can rest assured and be all smug that their incredibly expensive groceries acquired at Whole Paycheck are just that much more pure and better than what the lowly 90% are eating.,26848.0,0.4080977737903595,0.20204081632653
+408,8,Health & nutrition,Comment,nytimes,175.0,"You can stick your head in the sand like an ostrich all you want, I think that foods should be labeled so you can make your own choice.",26928.0,0.4017438888549805,0.6000000000000001
+409,8,Health & nutrition,Comment,nytimes,175.0,"Everybody should have the right to know whether their food is genetically modified and we should not have to wait for the chain that serves our respective market niches to have a ""come to Jesus"" moment.",27371.0,0.4017234444618225,0.14285714285714202
+410,8,Health & nutrition,Comment,nytimes,175.0,That would send a clear message to those who wish to tinker with food for profit.,27318.0,0.3981406092643738,0.1
+411,8,Health & nutrition,Comment,nytimes,175.0,Decreasing consumption causes only manageable social problems until the age structure stabilizes.,26902.0,0.396080493927002,0.016666666666666
+412,8,Health & nutrition,Comment,nytimes,175.0,"Far worst is US among most western nations is the only country, that does not require expiration dates on perishable food / drink products.",27329.0,0.39110881090164185,-0.08
+413,8,Health & nutrition,Comment,nytimes,175.0,When aware of foodstuffs containing genetically modified ingredients.,26989.0,0.3898033201694489,0.25
+414,8,Health & nutrition,Comment,nytimes,175.0,We all have to eat and no corporation has a right to put my life at risk.,26908.0,0.3895034193992615,0.28571428571428503
+415,8,Health & nutrition,Comment,nytimes,175.0,We all have to eat and no corporation has a right to put my life at risk.,26966.0,0.3895034193992615,0.28571428571428503
+416,8,Health & nutrition,Comment,nytimes,175.0,"Just read a NYT article how the processed food Big 12 have for the past 25 years hired scientists to work on recipes to put sugar, fat and salt in their products to bring on increased sales of each product such as chips, crackers and hundreds of others to cause an addiction like reaction to eat that product and to such an extent as to be responsible for a great deal of the obesity in American children and adults resulting in unhealthy serious ills.",26829.0,0.3854767680168152,0.001851851851851
+417,8,Health & nutrition,Comment,nytimes,175.0,"Lack of chrome in ""RoundUp Ready"" foods is as much a cause of type 2 diabetes as an excess of sugar and starch.",27504.0,0.37868112325668335,0.2
+418,8,Health & nutrition,Comment,nytimes,175.0,"Food and the brain do not co-op, shut the brain and a million diets, the Pyramid guide the criminal first, pushing obesity.",27300.0,0.377239465713501,-0.07500000000000001
+419,8,Health & nutrition,Comment,nytimes,175.0,"Perhaps supporting a government policy that does not allow its people to know what they are eating is not stupidity, but it certainly is not democracy.",27085.0,0.3742050528526306,0.14761904761904698
+420,8,Health & nutrition,Comment,nytimes,175.0,"All the while they repeat the strange quote: ""There has never been a famine that was caused by lack of food."".",27342.0,0.3739380836486816,-0.05
+421,8,Health & nutrition,Comment,nytimes,175.0,People have a right to know what they are eating.,27480.0,0.3731083273887634,0.28571428571428503
+422,8,Health & nutrition,Comment,nytimes,175.0,TJ is eliminating the more healthful choices of some of my favorite food items.,27166.0,0.3665636479854584,0.5
+423,8,Health & nutrition,Comment,nytimes,175.0,"We are more obese here, and while admittedly not conclusive, it is something that should be investigated.",26811.0,0.3664869070053101,0.5
+424,8,Health & nutrition,Comment,nytimes,175.0,"I am plenty irritated with them though, for continuing to use lots of plastic packaging and containers, for continually making and selling foods that are high in salt, fat, and sugars, and for reducing the number of lower/low-fat foods that they offer.",27402.0,0.3614290058612824,0.16
+425,8,Health & nutrition,Comment,nytimes,175.0,Do Americans live longer and healthier than other denizens of this world who worry significantly less about every little thing?,27572.0,0.3608429431915283,-0.085700757575757
+426,8,Health & nutrition,Comment,nytimes,175.0,they are just asking to know what kind of foods they are eating.,26933.0,0.3536442220211029,0.6000000000000001
+427,8,Health & nutrition,Comment,nytimes,175.0,I am sure you are covered with health care so perhaps you would rather save a little money by shopping at Wal Mart or better yet get a Papa John's Pizza where the CEO/owner said he would rather cut employees hours rather than raise his lousy pie prices by 15 cents to cover the ACA requirements (meanwhile giving away millions of pies to entice people to eat the junk).,26952.0,0.32924625277519226,0.078125
+428,8,Health & nutrition,Comment,nytimes,175.0,But I guess you would rather go eat a Papa John's where the CEO and founder said he would rather cut employees hours rather than raise the price on his lousy pizza by 15 cents to provide required health care.,26870.0,0.3275132179260254,-0.5
+429,9,Garbage 3,Comment,nytimes,175.0,"Well, that is nice.",26847.0,0.4218822419643402,0.6000000000000001
+430,9,Garbage 3,Comment,nytimes,175.0,I am just cutting out a few things.,26873.0,0.391394168138504,-0.4
+431,9,Garbage 3,Comment,nytimes,175.0,There is nothing natural about this.,27048.0,0.3868356943130493,0.1
+432,9,Garbage 3,Comment,nytimes,175.0,they really have been helpful to this cause.,26780.0,0.3815840482711792,0.2
+433,9,Garbage 3,Comment,nytimes,175.0,I am definitely fine with that.,26937.0,0.36916908621788025,0.416666666666666
+434,9,Garbage 3,Comment,nytimes,175.0,"They have a long, long way to go.",27152.0,0.3655952513217926,-0.05
+435,9,Garbage 3,Comment,nytimes,175.0,"In the mean time, label it.",27200.0,0.3588617444038391,-0.3125
+436,9,Garbage 3,Comment,nytimes,175.0,At the time I did not even know what was wrong.,26905.0,0.3471665680408478,-0.5
+437,9,Garbage 3,Comment,nytimes,175.0,At the time I did not even know what was wrong.,26963.0,0.3471665680408478,-0.5
+438,9,Garbage 3,Comment,nytimes,175.0,What a great idea.,27430.0,0.3460455536842346,0.8
+439,9,Garbage 3,Comment,nytimes,175.0,"I""m so impressed.",27564.0,0.33666718006134033,1.0
+440,9,Garbage 3,Comment,nytimes,175.0,They made the mess we are in.,27299.0,0.3319210112094879,-0.17500000000000002
+441,9,Garbage 3,Comment,nytimes,175.0,that is excellent.,27279.0,0.33078354597091675,1.0
+442,9,Garbage 3,Comment,nytimes,175.0,Does anyone out there know for sure?,26692.0,0.3302643299102783,0.5
+443,9,Garbage 3,Comment,nytimes,175.0,A nice re-enforcement.,27561.0,0.3239901065826416,0.6000000000000001
+444,9,Garbage 3,Comment,nytimes,175.0,Probably still true in 2013.,27510.0,0.32160675525665283,0.35000000000000003
+445,9,Garbage 3,Comment,nytimes,175.0,I will certainly be a customer.,27025.0,0.31940463185310364,0.214285714285714
+446,9,Garbage 3,Comment,nytimes,175.0,"They are doing very well, btw.",26785.0,0.305091917514801,0.2
+447,9,Garbage 3,Comment,nytimes,175.0,A great day for consumers!,26893.0,0.3044947981834412,1.0
+448,9,Garbage 3,Comment,nytimes,175.0,Would that be so bad?,27190.0,0.30127716064453125,-0.6999999999999991
+449,9,Garbage 3,Comment,nytimes,175.0,This is so unbelievably dumb.,27240.0,0.2976779341697693,-0.375
+450,9,Garbage 3,Comment,nytimes,175.0,Now that would be even better - it would be great!,26999.0,0.28101128339767456,0.75
+451,9,Garbage 3,Comment,nytimes,175.0,Five more years till we know?,26747.0,0.2801085114479065,0.5
+452,9,Garbage 3,Comment,nytimes,175.0,In a few months?,27395.0,0.2774827182292938,-0.2
+453,9,Garbage 3,Comment,nytimes,175.0,"Of course, this is an excellent strategy!",26996.0,0.2760510444641113,1.0
+454,9,Garbage 3,Comment,nytimes,175.0,I am happy for them.,26849.0,0.2756143808364868,0.8
+455,9,Garbage 3,Comment,nytimes,175.0,Is that natural?,27039.0,0.27493515610694885,0.1
+456,9,Garbage 3,Comment,nytimes,175.0,But 5 years - really?,27226.0,0.26213300228118896,0.2
+457,9,Garbage 3,Comment,nytimes,175.0,"First, this is hype by WF.",27170.0,0.2410613894462585,0.25
+458,10,Politics & policy & compliance,Comment,nytimes,175.0,"More importantly, they should not dictate public policy.",26726.0,0.3307941555976868,0.30000000000000004
+459,10,Politics & policy & compliance,Comment,nytimes,175.0,You need powerful supporters to get the public aware and give support to legislation.,26857.0,0.3061169981956482,0.18333333333333304
+460,10,Politics & policy & compliance,Comment,nytimes,175.0,it is important to use this to push for passage of pending legislation in CT and elsewhere.,27000.0,0.2680744528770447,0.4
+461,10,Politics & policy & compliance,Comment,nytimes,175.0,"More transparency is rarely, if ever, a bad thing.",27447.0,0.2647441029548645,0.03333333333333299
+462,10,Politics & policy & compliance,Comment,nytimes,175.0,"Answer: social injustice, and a hope that our utter dependence on this system will never fail.",27253.0,0.2642058730125427,0.094444444444444
+463,10,Politics & policy & compliance,Comment,nytimes,175.0,Back in the days when American were better educated we did not have the loonies and the ignorant affecting either government or private sector policies.,27373.0,0.2627449035644531,0.125
+464,10,Politics & policy & compliance,Comment,nytimes,175.0,This is yet another folly - fortunately we Californians had enough common sense to reject the idea put to as a one of our infamous 'propositions'.,27418.0,0.2612224221229553,-0.099999999999999
+465,10,Politics & policy & compliance,Comment,nytimes,175.0,Why is it so hard for the agro-business lobby to get this through their heads?,27473.0,0.2557565271854401,-0.291666666666666
+466,10,Politics & policy & compliance,Comment,nytimes,175.0,"If there is nothing wrong with GM, then the companies should have no problem with transparency in labeling.",26772.0,0.24375933408737185,-0.5
+467,10,Politics & policy & compliance,Comment,nytimes,175.0,"Others are interested in allowing people to make their own choices - like people do in Europe, for instance.",27260.0,0.2372171580791473,0.425
+468,10,Politics & policy & compliance,Comment,nytimes,175.0,Transparency is always good.,27587.0,0.2327640503644943,0.7000000000000001
+469,10,Politics & policy & compliance,Comment,nytimes,175.0,Too bad every system is bound to fail.,27254.0,0.2291136980056763,-0.5999999999999991
+470,10,Politics & policy & compliance,Comment,nytimes,175.0,My preference is that we would move towards one standard for reporting in order to avoid the confusion of everyone doing their own thing.,27450.0,0.2185266613960266,0.30000000000000004
+471,10,Politics & policy & compliance,Comment,nytimes,175.0,Europe and many other countries reject GM.,26774.0,0.21287265419960025,0.1875
+472,10,Politics & policy & compliance,Comment,nytimes,175.0,More than 10 million Americans will die over the next five years.,27556.0,0.2062699794769287,0.25
+473,10,Politics & policy & compliance,Comment,nytimes,175.0,But probably too late for the US.,26887.0,0.20478925108909607,-0.30000000000000004
+474,10,Politics & policy & compliance,Comment,nytimes,175.0,If he does not like Obama at least have some respect for the Office of The President.,27139.0,0.17222383618354795,-0.30000000000000004
+475,11,Animal welfare & meat consumption,Comment,nytimes,175.0,The funny thing is that pretty much all food is in some way genetically modifed (through selective bredding over centuries).,26754.0,0.4754868149757385,0.23333333333333306
+476,11,Animal welfare & meat consumption,Comment,nytimes,175.0,"Beef, pork, poultry and seafood has more antibiotics &amp; growth hormones then used for humans.",27326.0,0.4433407783508301,0.5
+477,11,Animal welfare & meat consumption,Comment,nytimes,175.0,"As a child, I remember my mother buying just-killed chicken from the butcher.",27533.0,0.33073681592941284,-0.6000000000000001
+478,11,Animal welfare & meat consumption,Comment,nytimes,175.0,Just look at the many reports about mislabeled fish.,27013.0,0.31049299240112305,0.5
+479,12,Farming & agricultural policy & food security,Comment,nytimes,175.0,Higher yields also mean less land is required to grow the same amount of crops.,27101.0,0.5410571694374084,-0.05729166666666601
+480,12,Farming & agricultural policy & food security,Comment,nytimes,175.0,So it ends up costing a lot more to grow GMO crops.,26971.0,0.5370900630950928,0.5
+481,12,Farming & agricultural policy & food security,Comment,nytimes,175.0,The long - term effect on the environment of growing these crops is not yet fully understood.,26945.0,0.5311030745506287,-0.05
+482,12,Farming & agricultural policy & food security,Comment,nytimes,175.0,That time-honored organic farming practice is much more likely to cause human illness than a plant that has been enhanced by modern genetic technology.,27409.0,0.5310247540473938,0.17500000000000002
+483,12,Farming & agricultural policy & food security,Comment,nytimes,175.0,"And most crops that have historically been ""modified"" can still reproduce naturally.",26762.0,0.5278643369674683,0.19999999999999898
+484,12,Farming & agricultural policy & food security,Comment,nytimes,175.0,"Best to grow your own produce, eat no processed foods and buy from your local certified organic farmer if you can.",27531.0,0.5052382946014404,0.5333333333333329
+485,12,Farming & agricultural policy & food security,Comment,nytimes,175.0,it is so 'easy' to grow corn and beans now that traditional rotations and small grain crops are disappearing.,27387.0,0.4967268109321594,0.06111111111111101
+486,12,Farming & agricultural policy & food security,Comment,nytimes,175.0,"got to start somewhere, and even those who cannot afford WF are likely to benefit, since large producers will likely increase their GMO-free product lines.",26882.0,0.4907189011573792,0.07142857142857101
+487,12,Farming & agricultural policy & food security,Comment,nytimes,175.0,And small farmers in India of less than an acre of land are approaching a 25% suicide rate in recent years-they are forced to buy modified and patented seed from Monsanto.,27115.0,0.489757388830185,-0.143333333333333
+488,12,Farming & agricultural policy & food security,Comment,nytimes,175.0,Especially odd are the people who have never known a day of hunger in their lives demanding that we stop trying to increase crop yields.,27337.0,0.48812389373779297,-0.33333333333333304
+489,12,Farming & agricultural policy & food security,Comment,nytimes,175.0,Other people do not want small farms to be beholden to one seed sold by one giant company.,27261.0,0.4791207313537598,-0.125
+490,12,Farming & agricultural policy & food security,Comment,nytimes,175.0,As reciprocal action we surely will help America replant their fields with Monsanto-free seeds.,26895.0,0.4565388560295105,0.30000000000000004
+491,12,Farming & agricultural policy & food security,Comment,nytimes,175.0,"Anyone who is seen rotting wheat in silos, or can follow the path between corn, government subsidies, and straight from the Kentucky corn growers association,.",26913.0,0.4548898935317993,0.2
+492,12,Farming & agricultural policy & food security,Comment,nytimes,175.0,I am tired of my tax dollars subsidizing Monsanto and big agriculture!,27137.0,0.4525778889656067,-0.2
+493,12,Farming & agricultural policy & food security,Comment,nytimes,175.0,"Perhaps their products are more expensive, but how smart is it to be lobbying for cheap food from Big Agriculture?",27457.0,0.44555896520614624,0.122857142857142
+494,12,Farming & agricultural policy & food security,Comment,nytimes,175.0,"corn skyrocketing if consumers shunned GM foods, but if all GM corn does is keep its price - and the price of corn syrup - artificially low, how exactly does that benefit us?",27185.0,0.4389608502388001,0.125
+495,12,Farming & agricultural policy & food security,Comment,nytimes,175.0,Norman Borlaug believed the Green Revolution was only a stop-gap measure until the world's population could be brought down to a reasonable level.,26900.0,0.4256895184516907,-0.038888888888888
+496,12,Farming & agricultural policy & food security,Comment,nytimes,175.0,They just wanted to license their seeds until they own everything we plant and eat.,27434.0,0.4233066141605377,0.6000000000000001
+497,12,Farming & agricultural policy & food security,Comment,nytimes,175.0,"No problem, the progressives seem to say, let the people 'eat more kale' grown organically at their local CSA farm.",27344.0,0.4127011001110077,0.25
+498,12,Farming & agricultural policy & food security,Comment,nytimes,175.0,No one is producing traditional seed in great quantities since no one is buying it.,27384.0,0.4109319746494293,0.4
+499,12,Farming & agricultural policy & food security,Comment,nytimes,175.0,CRP and virgin prairie are still being ripped up here in the Plains to put in a little more corn.,27388.0,0.3925615549087525,0.15625
+500,13,Consumer prices & profit,Comment,nytimes,175.0,For things to be labelled accurately it should not requiire anything more than consumers demanding it.,27583.0,0.3940588235855103,0.45
+501,13,Consumer prices & profit,Comment,nytimes,175.0,More information for the consumer is never a bad thing.,27098.0,0.3829025030136109,0.4249999999999991
+502,13,Consumer prices & profit,Comment,nytimes,175.0,"If a large retailer demands a particular standard of production, a supplier will listen if its sales will be hurt due to non-compliance.",26995.0,0.3824363946914673,0.06398809523809501
+503,13,Consumer prices & profit,Comment,nytimes,175.0,Useless info that will result in further increase of their already high prices.,27416.0,0.37415847182273865,-0.113333333333333
+504,13,Consumer prices & profit,Comment,nytimes,175.0,"Sure, they have some pricey products, but if you shop intelligently, they also offer value.",27463.0,0.3709021210670471,0.65
+505,13,Consumer prices & profit,Comment,nytimes,175.0,Unfortunately such tactics will frighten less scientifically informed consumers.,26942.0,0.36290207505226135,-0.08333333333333301
+506,13,Consumer prices & profit,Comment,nytimes,175.0,Good information to provide consumers who can choose to regard it or not.,27213.0,0.3546052575111389,0.7000000000000001
+507,13,Consumer prices & profit,Comment,nytimes,175.0,WF's most important product is marketing.,27419.0,0.337605893611908,0.45
+508,13,Consumer prices & profit,Comment,nytimes,175.0,"This is OK for trendy, well to do shoppers, but what saddens me is when I see less well off consumers spending their scarce dollars on higher priced products out of unfounded fear brought on by such PR plays.",26943.0,0.33596521615982056,0.23666666666666605
+509,13,Consumer prices & profit,Comment,nytimes,175.0,"WF sells to a small percentage of the population who wants, and will pay a lot for, this kind of stuff.",27245.0,0.33562418818473816,0.18333333333333304
+510,13,Consumer prices & profit,Comment,nytimes,175.0,"Their prices are double, but their products are no better than anyone elses.",27423.0,0.3339079022407532,-0.125
+511,13,Consumer prices & profit,Comment,nytimes,175.0,Somehow I do not trust this company to do the right thing if profits are threatened.,26796.0,0.3240829110145569,0.28571428571428503
+512,13,Consumer prices & profit,Comment,nytimes,175.0,"But I strongly believe that consumers have every right to know what is on their table and where it came from, how it was produced and processed.",26724.0,0.3149262070655823,0.35952380952380897
+513,13,Consumer prices & profit,Comment,nytimes,175.0,"Consumers have not been able to get the federal and state governments to listen, so we are fighting any way we can.",26974.0,0.3110523819923401,0.5
+514,13,Consumer prices & profit,Comment,nytimes,175.0,Sounds like smart business move to me.,27246.0,0.3094395995140076,0.214285714285714
+515,13,Consumer prices & profit,Comment,nytimes,175.0,Something about selling products made by other companies as having been made by those other companies.,27149.0,0.30243849754333496,-0.125
+516,13,Consumer prices & profit,Comment,nytimes,175.0,Why are the big agro-businesses in the United States so afraid of letting their customers know what they are being sold?.,27468.0,0.3016080856323242,-0.30000000000000004
+517,13,Consumer prices & profit,Comment,nytimes,175.0,"If it cannot adequately address all concerns in that time, then we will just have to start voting for what we want with our own consumer decisions.",27189.0,0.29769933223724365,0.4666666666666661
+518,13,Consumer prices & profit,Comment,nytimes,175.0,"After reading about this stuff this for years, it is pretty clear that the bottom line is the almighty dollar.",27122.0,0.2961200475692749,0.17500000000000002
+519,13,Consumer prices & profit,Comment,nytimes,175.0,Thinks it is a great company.,27008.0,0.2830036580562592,0.8
+520,13,Consumer prices & profit,Comment,nytimes,175.0,"Where California failed, WF comes through for the consumer.",27460.0,0.2737756967544556,-0.5
+521,13,Consumer prices & profit,Comment,nytimes,175.0,"""Because An Educated Consumer Is Our Best Consumer"".",27470.0,0.27108803391456604,1.0
+522,13,Consumer prices & profit,Comment,nytimes,175.0,"The problem is the following - people in the rich countries have lot of fads, so GM is another - no big deal.",27575.0,0.2693324089050293,0.125
+523,13,Consumer prices & profit,Comment,nytimes,175.0,Your option at virtually any other market?,27311.0,0.2675268054008484,-0.125
+524,13,Consumer prices & profit,Comment,nytimes,175.0,it is about time a major store took this issue seriously.,27413.0,0.267190545797348,-0.13541666666666602
+525,13,Consumer prices & profit,Comment,nytimes,175.0,And as far back as 1999 one such producer approached the industry to try to get them to change this unwholesome practice for increased profits and according to the article was told to go chase himself.,26830.0,0.2503248453140259,0.03333333333333299
+526,13,Consumer prices & profit,Comment,nytimes,175.0,They will probably make more of an impact overall if GM labeling expands.,27319.0,0.2424874901771545,0.25
+527,13,Consumer prices & profit,Comment,nytimes,175.0,Do they think manufacturer's will take that long to change a label?,27218.0,0.2385977655649185,-0.05
+528,13,Consumer prices & profit,Comment,nytimes,175.0,But people in the poor countries are suffering because of this fad popularized by a handful of people living in Europe.,27576.0,0.2369196414947509,-0.4
+529,13,Consumer prices & profit,Comment,nytimes,175.0,"Low pay, lousy benefits, long hours, poor working conditions.",27004.0,0.2347379028797149,-0.2375
+530,13,Consumer prices & profit,Comment,nytimes,175.0,"Yes, these things mean I might pay a bit more.",26869.0,0.231528177857399,0.09375
+531,13,Consumer prices & profit,Comment,nytimes,175.0,Pity that their private label is not very good.,27150.0,0.2286064028739929,-0.123076923076923
+532,13,Consumer prices & profit,Comment,nytimes,175.0,Many people will not look for or notice or even care about the label.,26819.0,0.2271714210510254,0.5
+533,13,Consumer prices & profit,Comment,nytimes,175.0,Examples of everyday items are:.,26916.0,0.2266489267349243,-0.2
+534,13,Consumer prices & profit,Comment,nytimes,175.0,So people who do not want to gamble absolutely have a right to stay out of the game and avoid playing the odds.,27555.0,0.20485851168632507,0.028571428571427995
+535,13,Consumer prices & profit,Comment,nytimes,175.0,"Second, he does not know if at the same time there was any other modification to the product.",27518.0,0.2023555040359497,-0.041666666666666005
+536,13,Consumer prices & profit,Comment,nytimes,175.0,Or check any number of other non-staple items.,27309.0,0.1812588572502136,-0.125
+537,13,Consumer prices & profit,Comment,nytimes,175.0,Afraid people would panic and run from the store?,26795.0,0.16745030879974365,-0.6000000000000001
+538,14,Garbage 4,Comment,nytimes,175.0,it sure does not look that way from the comments.,27558.0,0.35862237215042114,0.5
+539,14,Garbage 4,Comment,nytimes,175.0,it is irrelevant here.,27437.0,0.3504599332809448,-0.5
+540,14,Garbage 4,Comment,nytimes,175.0,"I do not know how many times you are resentment puts you on the right side of an issue, but this time you have got it all wrong.",26858.0,0.3315834403038025,0.095238095238095
+541,14,Garbage 4,Comment,nytimes,175.0,I have no interest in convincing you of anything.,27274.0,0.319557249546051,0.5
+542,14,Garbage 4,Comment,nytimes,175.0,"you are comparing denial of something that is been proven, over and over, to caution in regard to something that is barely been investigated.",27302.0,0.3122299909591675,0.05
+543,14,Garbage 4,Comment,nytimes,175.0,People are so unbelievably misinformed and woefully incapable of basic rational thinking.,27514.0,0.3117377758026123,-0.125
+544,14,Garbage 4,Comment,nytimes,175.0,Knowledgeable comments are welcome.,27239.0,0.3114057779312134,0.8
+545,14,Garbage 4,Comment,nytimes,175.0,it is the unintended consequences that can be terrible.,27378.0,0.3039007782936096,-1.0
+546,14,Garbage 4,Comment,nytimes,175.0,The lack of critical thinking in the majority of these comments is mind-boggling.,26890.0,0.2977971434593201,0.25
+547,14,Garbage 4,Comment,nytimes,175.0,What the label says is probably important.,26984.0,0.2878697216510773,0.4
+548,14,Garbage 4,Comment,nytimes,175.0,And we will see in the long term who was right.,27203.0,0.28748077154159546,0.117857142857142
+549,14,Garbage 4,Comment,nytimes,175.0,Labelling seemingly indistinguishable things differently is not a new concept.,27585.0,0.28706717491149897,-0.06818181818181801
+550,14,Garbage 4,Comment,nytimes,175.0,It is kind of amusing hearing about the sort of things people worry about.,27451.0,0.2812633514404297,0.6000000000000001
+551,14,Garbage 4,Comment,nytimes,175.0,"Assuming that this timing is indeed true, there is simply not enough evidence to conclude that one caused the other.",27516.0,0.27674931287765503,0.075
+552,14,Garbage 4,Comment,nytimes,175.0,"I urge folks to seek out reputable sources, instead of letting the fear mongers influence your decisions.",27179.0,0.2696611285209656,0.5
+553,14,Garbage 4,Comment,nytimes,175.0,If anyone has different facts I am willing to learn.,26808.0,0.2682457268238068,0.125
+554,14,Garbage 4,Comment,nytimes,175.0,They do not deserve these derisive comments but our thanks.,27002.0,0.2660104334354401,0.2
+555,14,Garbage 4,Comment,nytimes,175.0,And if you have no substantial evidence who is more the fool?,27081.0,0.26225677132606506,0.5
+556,14,Garbage 4,Comment,nytimes,175.0,this would just be silly if it were not stupid.,27030.0,0.2527518570423126,-0.05
+557,14,Garbage 4,Comment,nytimes,175.0,There is nothing either silly or stupid about it.,27041.0,0.2469286918640137,-0.649999999999999
+558,14,Garbage 4,Comment,nytimes,175.0,We should be interested in answers to other questions as well.,27181.0,0.2443398684263229,0.0625
+559,14,Garbage 4,Comment,nytimes,175.0,"It may be smart PR, but it also helps us in a very real way.",27461.0,0.2430647313594818,0.23714285714285704
+560,14,Garbage 4,Comment,nytimes,175.0,"Your classist generalization, therefore, unfortunately fails.",26866.0,0.2394045889377594,-0.5
+561,14,Garbage 4,Comment,nytimes,175.0,Other people want to have choice - now and in the future.,27262.0,0.2346116602420807,-0.0625
+562,14,Garbage 4,Comment,nytimes,175.0,I want the first know it all who claims that there is no discernable difference betn.,27579.0,0.2320692837238312,0.25
+563,14,Garbage 4,Comment,nytimes,175.0,you are so very sad.,26854.0,0.2313137650489807,-0.65
+564,14,Garbage 4,Comment,nytimes,175.0,How about also other correct labeling?,26732.0,0.2260034233331681,-0.125
+565,14,Garbage 4,Comment,nytimes,175.0,Why is this dumb?,27244.0,0.21422064304351807,-0.375
+566,14,Garbage 4,Comment,nytimes,175.0,"Wow, the comments here show the degree of misinformation about GM.",27169.0,0.19763532280921936,0.1
+567,14,Garbage 4,Comment,nytimes,175.0,"that is kind of a buzz kill, but still a good move nonetheless.",27227.0,0.19179943203926086,0.649999999999999
+568,14,Garbage 4,Comment,nytimes,175.0,"Mostly people will come out okay, but not always and it is hard to predict.",27554.0,0.18307942152023315,0.23611111111111105

@@ -1,0 +1,230 @@
+,cluster,topic,doc_type,source,article_id,sentence,sentence_id,cosine_similarity,textblob_polarity
+0,0,Environment (pesticides & fertilizers),Article,,,,,,
+1,1,Retailers,Article,spiegel,92.0,"Hamburg - Für viele Verbraucher geben sie den Ausschlag bei der Kaufentscheidung - obwohl kaum jemand weiß, wofür sie wirklich stehen: Bio- oder Gütesiegel sind für die Lebensmittelindustrie zu einem wichtigen Verkaufsinstrument geworden.",269816.0,0.4038666486740112,0.425
+2,1,Retailers,Article,spiegel,92.0,"Zwar sind die Kriterien, nach denen die fast hundert unterschiedlichen Lebensmittelsiegel in Deutschland vergeben werden, in der Regel transparent und gut dokumentiert.",269822.0,0.3398203253746033,0.85
+3,1,Retailers,Article,spiegel,92.0,Klicken Sie auf die Logos: Lebensmittel-Siegel: In Treu und Glauben,269828.0,0.264295756816864,1.0
+4,2,Garbage 1,Article,spiegel,92.0,"SPIEGEL ONLINE zeigt, welche Siegel halten, was sie versprechen - und welche nicht.",269815.0,0.12369555979967115,1.0
+5,3,GMO & organic,Article,spiegel,92.0,In Umfragen bezeichneten Verbraucher beispielsweise Lebensmittel mit Biosiegel als sympathisch und qualitativ hochwertig.,269817.0,0.4760662019252777,1.0
+6,3,GMO & organic,Article,spiegel,92.0,Aber für den unbedarften Konsumenten sind die Kriterien oft unverständlich formuliert - und hinter dem Fach-Chinesisch mancher Kennzeichnungen versteckt sich regelrechter Etikettenschwindel.,269823.0,0.433384507894516,-0.7000000000000001
+7,3,GMO & organic,Article,spiegel,92.0,"In der Flut von fast hundert Öko-, Bio-, Qualitäts- und Fair-Trade-Logos verlieren selbst gut informierte Verbraucher die Übersicht.",269814.0,0.3960971236228943,0.15000000000000002
+8,4,Garbage 2,Article,,,,,,
+9,5,Food products & taste,Article,spiegel,92.0,"Welche der am weitesten verbreiteten Lebensmittelsiegel halten wirklich, was sie versprechen - und welche nicht?",269827.0,0.2920198440551758,1.0
+10,6,Food safety,Article,,,,,,
+11,7,Research,Article,,,,,,
+12,8,Health & nutrition,Article,,,,,,
+13,9,Garbage 3,Article,spiegel,92.0,Wem kann man noch trauen?,269813.0,0.3067626953125,0.7000000000000001
+14,10,Politics & policy & compliance,Article,,,,,,
+15,11,Animal welfare & meat consumption,Article,,,,,,
+16,12,Farming & agricultural policy & food security,Article,,,,,,
+17,13,Consumer prices & profit,Article,spiegel,92.0,Das gute Geschäft lebt auch von der Unwissenheit der Verbraucher.,269821.0,0.4307823479175568,1.0
+18,14,Garbage 4,Article,,,,,,
+19,0,Environment (pesticides & fertilizers),Comment,spiegel,92.0,".für mich ein Kriterium, vorzugsweise Demeter-Produkte zu kaufen, dass sie z.B. nicht erlauben, den Boden unter den Pflanzen mit Plastikfolie abzudecken, was verhindert, dass ""Unkräuter"" wachsen, was sowohl eine natürliche Bodenbeschaffenheit verhindert, als auch dass die Pflanzen sich gegenseitig ""helfen"", indem sie Substanzen wie z.B. Phosphor, Stickstoff ( durch Schmetterlingsblütler), etc austauschen.",270098.0,0.4968608617782593,-0.5
+20,1,Retailers,Comment,spiegel,92.0,"Kein Wunder also, dass da immer nur ""Produktinnovationen"" gewinnen, mit denen Real, Edeka und Kaiser's besonders gut Kasse machen können - also irgendwelche vergewaltigten Lebensmittel in Plastikverpackungen aus dem Hause Unilever, Nestlé oder Kraft Foods.",270208.0,0.4228266477584839,1.0
+21,1,Retailers,Comment,spiegel,92.0,"Es sind die Lebensmittelkonzerne, die mit schlechtesten und billigsten Zutaten und poppig-bunten Etiketten Ihnen vorgaukeln, der Inhalt sei sein Geld wert.",269971.0,0.419678270816803,-0.7000000000000001
+22,1,Retailers,Comment,spiegel,92.0,"Es sind die Lebensmittelkonzerne, die mit schlechtesten und billigsten Zutaten und poppig-bunten Etiketten Ihnen vorgaukeln, der Inhalt sei sein Geld wert.",269954.0,0.419678270816803,-0.7000000000000001
+23,1,Retailers,Comment,spiegel,92.0,Auch suburbane Akademiker kaufen Industrienahrungsmittel.,270156.0,0.4156398177146912,-0.7000000000000001
+24,1,Retailers,Comment,spiegel,92.0,"Nicht mal im Doppelblindvergleich kam der Laden annähernd in die Spitzengruppe (und es wurden NUR Bulettenbräter verglichen, keine wirklich hochwertigen Produkte).",270256.0,0.30766868591308594,-0.5
+25,1,Retailers,Comment,spiegel,92.0,DLG und QS sind auf jeden fall nur schöner schein der lebensmittelindustrie.,269877.0,0.3046815395355225,1.0
+26,1,Retailers,Comment,spiegel,92.0,"Beim Verkauf einer herkömmlichen Tafel Schokolade mit 18 Stücken erhält der Bauer gerade mal den Wert eines Stückes, bei einer fair gehandelten Tafel Schokolade immerhin den Wert von 8 Stücken.",270361.0,0.3034046292304993,1.0
+27,1,Retailers,Comment,spiegel,92.0,"Beim Verkauf einer herkömmlichen Tafel Schokolade mit 18 Stücken erhält der Bauer gerade mal den Wert eines Stückes, bei einer fair gehandelten Tafel Schokolade immerhin den Wert von 8 Stücken.",270356.0,0.3034046292304993,1.0
+28,1,Retailers,Comment,spiegel,92.0,"Das gleiche gilt auch für das Earth Island Institute, dessen Label bei Ihnen ebenfalls einen grünen Daumen bekommt - was man nur noch als grobe Verbrauchertäuschung bezeichnen kann.",270189.0,0.29893946647644043,-0.7000000000000001
+29,1,Retailers,Comment,spiegel,92.0,"Ist es wirklich sinnvoll in Passau ""frischen"" Meerfisch zu verkaufen?.",270310.0,0.2642501890659332,1.0
+30,2,Garbage 1,Comment,spiegel,92.0,"Aus diesem Grund haben es ""Mogelsiegel"" doch so einfach.",269842.0,0.1572522073984146,0.7000000000000001
+31,2,Garbage 1,Comment,spiegel,92.0,(Würde mich jedenfalls als Gelegentlich-McDoof-Besucher doch brennend interessieren),269986.0,0.14966270327568054,1.0
+32,2,Garbage 1,Comment,spiegel,92.0,"""Actimel"" mag zwar ein gewisses Völlegefühl innerhalb von 14 Tagen beseitigen.",270316.0,0.14766520261764526,1.0
+33,2,Garbage 1,Comment,spiegel,92.0,unterbinden durch hohe strafzoelle die veredlung und.,270365.0,0.14755311608314514,-0.7000000000000001
+34,2,Garbage 1,Comment,spiegel,92.0,"Sie dürfen natürlich mit erhobenen Zeigefinger daherkommen,.",269997.0,0.13838478922843933,0.7000000000000001
+35,2,Garbage 1,Comment,spiegel,92.0,Im Laden habe ich bis jetzt auf Demeter und Natura gesetzt.,270116.0,0.1378193199634552,0.7000000000000001
+36,2,Garbage 1,Comment,spiegel,92.0,Im Laden habe ich bis jetzt auf Demeter und Natura gesetzt.,270126.0,0.1378193199634552,0.7000000000000001
+37,2,Garbage 1,Comment,spiegel,92.0,"""Testsieger ist die Billig-/ oder .",270112.0,0.13209611177444458,1.0
+38,2,Garbage 1,Comment,spiegel,92.0,"Glücklicherweise kann man in diesem Länd noch frei wählen, was man für richtig hält.",269965.0,0.12743642926216125,0.85
+39,2,Garbage 1,Comment,spiegel,92.0,"Glücklicherweise kann man in diesem Länd noch frei wählen, was man für richtig hält.",270011.0,0.12743642926216125,0.85
+40,2,Garbage 1,Comment,spiegel,92.0,"Glücklicherweise kann man in diesem Länd noch frei wählen, was man für richtig hält.",269989.0,0.12743642926216125,0.85
+41,2,Garbage 1,Comment,spiegel,92.0,"SPIEGEL ONLINE zeigt, welche Siegel halten, was sie versprechen - und welche nicht.",270038.0,0.12369555979967115,1.0
+42,2,Garbage 1,Comment,spiegel,92.0,"SPIEGEL ONLINE zeigt, welche Siegel halten, was sie versprechen - und welche nicht.",269832.0,0.12369555979967115,1.0
+43,2,Garbage 1,Comment,spiegel,92.0,"SPIEGEL ONLINE zeigt, welche Siegel halten, was sie versprechen - und welche nicht.",269848.0,0.12369555979967115,1.0
+44,2,Garbage 1,Comment,spiegel,92.0,"SPIEGEL ONLINE zeigt, welche Siegel halten, was sie versprechen - und welche nicht.",269856.0,0.12369555979967115,1.0
+45,2,Garbage 1,Comment,spiegel,92.0,"SPIEGEL ONLINE zeigt, welche Siegel halten, was sie versprechen - und welche nicht.",270204.0,0.12369555979967115,1.0
+46,2,Garbage 1,Comment,spiegel,92.0,"SPIEGEL ONLINE zeigt, welche Siegel halten, was sie versprechen - und welche nicht.",270271.0,0.12369555979967115,1.0
+47,2,Garbage 1,Comment,spiegel,92.0,"Hinter den Siegeln verbergen sich wohl oft viele der genannten »Kann-Regeln«, die die Glaubwürdigkeit und Werte der Siegel meines Erachtens stark mindern.",269884.0,0.11439933627843855,0.35000000000000003
+48,2,Garbage 1,Comment,spiegel,92.0,"Letztendlich war er aber doch beeindruckt, immerhin so sehr, dass er heimlich bei uns im Garten den Hokuspokus ausprobierte.",270226.0,0.10886205732822417,-0.7000000000000001
+49,2,Garbage 1,Comment,spiegel,92.0,"Lasst den Rest einfach leben, man lebt nur einmal und das soll dann auch Spaß machen.",270052.0,0.10794875025749208,0.7000000000000001
+50,2,Garbage 1,Comment,spiegel,92.0,"So ein Schmarrn - erstens wird ein Handtuch zig mal gewaschen, zweitens hat man quasi keinen Hautkontakt mit einem Ettikett und drittens sind die belastenden ""Gift""-Konzentrationen in jedem Waschmittel, Duschgel, Zahnbürst, Armanduhr hundert mal größer.",270067.0,0.10223780572414398,-0.15000000000000002
+51,2,Garbage 1,Comment,spiegel,92.0,"identische Handtuch handelt, welches mit dem gleichen Garn, auf der selben Maschine gesponnen wird.",270070.0,0.10210379958152772,-0.7000000000000001
+52,2,Garbage 1,Comment,spiegel,92.0,"Bevor sie andere so aburteilen, sollten sie Ihre Glaskugel wieder in den Schrank stellen und einen Gang zurück schalten.",270248.0,0.09434860199689864,-1.0
+53,2,Garbage 1,Comment,spiegel,92.0,"Bevor sie andere so aburteilen, sollten sie Ihre Glaskugel wieder in den Schrank stellen und einen Gang zurück schalten.",269980.0,0.09434860199689864,-1.0
+54,2,Garbage 1,Comment,spiegel,92.0,"Bevor sie andere so aburteilen, sollten sie Ihre Glaskugel wieder in den Schrank stellen und einen Gang zurück schalten.",270026.0,0.09434860199689864,-1.0
+55,2,Garbage 1,Comment,spiegel,92.0,"Aber der SPIEGEL kann die DLG, QS und RainforrestAlliance siegel ruhig mit ""daumen runter"" bewerten.",269876.0,0.09421631693840027,0.7000000000000001
+56,2,Garbage 1,Comment,spiegel,92.0,"Weil es die lieben Freunde tun, weil's so hip ist (ich frage mich nur wieso), so schön bunt, so angesagt, so cool oder weiß der Geier.",270262.0,0.03371374681591988,0.7999999999999989
+57,3,GMO & organic,Comment,spiegel,92.0,Es geht hier übrigens nur darum die Lebensmittel vernünftig zu etikettieren - nicht darum die gesamte Lebensmittelproduktion auf Bio umzustellen.,269994.0,0.6049546599388123,1.0
+58,3,GMO & organic,Comment,spiegel,92.0,"Wenn es darum geht, dass ""bio"" die Herkunft des Lebensmittels ohne antropogenen Einfluss im Sinne von Zucht oder Anbau ist, dann ist nur Wildfischfang und Wildjagd wirklich 100% bio.",269933.0,0.5623500943183899,1.0
+59,3,GMO & organic,Comment,spiegel,92.0,"Es muss doch möglich sein, auf ökologische Art weitgehend »gesunde« Produkte im größeren Umfang zu erzeugen, ohne gleich das Ausmaß der ja nun wirklich oft grauenhaften Massentierhaltung zu betreten.",269888.0,0.5531491041183472,0.4333333333333329
+60,3,GMO & organic,Comment,spiegel,92.0,"Und der Fertigproduktfraktion möchte ich sagen, dass selbst kochen mit Nicht Bio deutlich gesünder und Geschmacksintersiver ist als Fertigfrass.",270086.0,0.5329119563102722,1.0
+61,3,GMO & organic,Comment,spiegel,92.0,"Dass Bioprodukte nicht immer unbedenklich sind, ist ein offenes Geheimnis.",270163.0,0.5109151005744934,0.7000000000000001
+62,3,GMO & organic,Comment,spiegel,92.0,"Seitdem die Discounter und Drogerieketten dem Biowahn verfallen sind bekommt man ja gar keine ehrlichen, synthetisch hergestellten Nahrungsmittel mehr.",270153.0,0.5053078532218933,-0.23333333333333306
+63,3,GMO & organic,Comment,spiegel,92.0,"Seitdem die Discounter und Drogerieketten dem Biowahn verfallen sind bekommt man ja gar keine ehrlichen, synthetisch hergestellten Nahrungsmittel mehr.",269904.0,0.5053078532218933,-0.23333333333333306
+64,3,GMO & organic,Comment,spiegel,92.0,"und das BIO-farmlachse aus Norwegen, von den Hebriden, Shetlands etc., an die in massentierhaltung, und sei es auch nur anteilig in pellets gepresste doch eigenstaendige wertvolle speisefische wie hering und sardinen verfuettert werden, zeigt das auch die 'guten keine probleme.",270245.0,0.4980486631393433,1.0
+65,3,GMO & organic,Comment,spiegel,92.0,"Ich halte es für wenig sinnvoll, Nachhaltigkeit nur auf die CO2 Bilanz eines Produktes zu beschränken.",270332.0,0.4948678612709045,0.5
+66,3,GMO & organic,Comment,spiegel,92.0,"Mir ist nicht bekannt, dass auch nur ein Mensch and gentechnisch veränderten Nahrungsmitteln erkrankt wäre oder gar daran gestorben ist.",270168.0,0.4924871325492859,-0.17500000000000002
+67,3,GMO & organic,Comment,spiegel,92.0,"Und wie sieht das wohl mit fairen Arbeitsbedingungen auf chinesischen Bio-Höfen oder brasilianischen Bio-Orangenplantagen aus, deren Erzeugnisse das staatliche Bio-Label tragen oder sogar ein Verbandssiegel?.",270193.0,0.4878241717815399,1.0
+68,3,GMO & organic,Comment,spiegel,92.0,Ich bin noch nicht alt und finde den Geschmack an Früchten oder Gemüse oder auch tiereischen Erzeugnissen einfach nur noch in Ökoprodukten.,270084.0,0.4856273233890533,0.7000000000000001
+69,3,GMO & organic,Comment,spiegel,92.0,"Was einzig und allein dazu führen würde, dass das Biogeschäft in eine Tochtergesellschaft ausgegliedert wird, die das Biosiegel dann doch wieder haben dürfte.",269918.0,0.4683958292007446,-0.7000000000000001
+70,3,GMO & organic,Comment,spiegel,92.0,"Umgekehrt gilt, dass die meisten Produkte bei Alnatura (grüner Daumen) ebenfalls nur das staatliche Biosiegel tragen.",270183.0,0.4576299786567688,1.0
+71,3,GMO & organic,Comment,spiegel,92.0,"Denn alle labeln beispielsweise auch im Januar eingeflogene Erdbeeren - sehr umweltfreundlich, oder?",270192.0,0.456746906042099,1.0
+72,3,GMO & organic,Comment,spiegel,92.0,Geschmack und Qualität von Bioartikel sind einfach unschlagbar.,270083.0,0.44684749841690063,1.0
+73,3,GMO & organic,Comment,spiegel,92.0,"Ökofreak lassen sich ja gern gebräunten Zucker zum doppelten Preis andrehen, obwohl sie sonst ja eher grün mögen ;-).",270171.0,0.4273961782455444,1.0
+74,3,GMO & organic,Comment,spiegel,92.0,"Ökofreak lassen sich ja gern gebräunten Zucker zum doppelten Preis andrehen, obwohl sie sonst ja eher grün mögen ;-).",270149.0,0.4273961782455444,1.0
+75,3,GMO & organic,Comment,spiegel,92.0,"Das ""nicht wesentlich"" ist übrigens falsch, denn zumindest bei den Handelsketten finden sich oft auch Produkte, die zusätzlich ein Siegel der deutschen Bio-Verbände tragen.",270182.0,0.4109567701816559,-0.85
+76,3,GMO & organic,Comment,spiegel,92.0,Ich kaufe extrem viel Bio aber eigentlich nur aus zwei unsagbar egoistischen Gründen.,270081.0,0.4033142924308777,-0.5666666666666661
+77,3,GMO & organic,Comment,spiegel,92.0,"In der Flut von fast hundert Öko-, Bio-, Qualitäts- und Fair-Trade-Logos verlieren selbst gut informierte Verbraucher die Übersicht.",270270.0,0.3960971236228943,0.15000000000000002
+78,3,GMO & organic,Comment,spiegel,92.0,"In der Flut von fast hundert Öko-, Bio-, Qualitäts- und Fair-Trade-Logos verlieren selbst gut informierte Verbraucher die Übersicht.",270203.0,0.3960971236228943,0.15000000000000002
+79,3,GMO & organic,Comment,spiegel,92.0,"In der Flut von fast hundert Öko-, Bio-, Qualitäts- und Fair-Trade-Logos verlieren selbst gut informierte Verbraucher die Übersicht.",270037.0,0.3960971236228943,0.15000000000000002
+80,3,GMO & organic,Comment,spiegel,92.0,"In der Flut von fast hundert Öko-, Bio-, Qualitäts- und Fair-Trade-Logos verlieren selbst gut informierte Verbraucher die Übersicht.",269855.0,0.3960971236228943,0.15000000000000002
+81,3,GMO & organic,Comment,spiegel,92.0,"In der Flut von fast hundert Öko-, Bio-, Qualitäts- und Fair-Trade-Logos verlieren selbst gut informierte Verbraucher die Übersicht.",269847.0,0.3960971236228943,0.15000000000000002
+82,3,GMO & organic,Comment,spiegel,92.0,"In der Flut von fast hundert Öko-, Bio-, Qualitäts- und Fair-Trade-Logos verlieren selbst gut informierte Verbraucher die Übersicht.",269831.0,0.3960971236228943,0.15000000000000002
+83,3,GMO & organic,Comment,spiegel,92.0,Ich habe noch nie Bio gekauft und werde es auch nie tun.,270133.0,0.3632352650165558,-0.7000000000000001
+84,3,GMO & organic,Comment,spiegel,92.0,Ich habe noch nie Bio gekauft und werde es auch nie tun.,270215.0,0.3632352650165558,-0.7000000000000001
+85,3,GMO & organic,Comment,spiegel,92.0,Ich habe noch nie Bio gekauft und werde es auch nie tun.,269892.0,0.3632352650165558,-0.7000000000000001
+86,3,GMO & organic,Comment,spiegel,92.0,Ich habe noch nie Bio gekauft und werde es auch nie tun.,269951.0,0.3632352650165558,-0.7000000000000001
+87,3,GMO & organic,Comment,spiegel,92.0,Ich habe noch nie Bio gekauft und werde es auch nie tun.,270020.0,0.3632352650165558,-0.7000000000000001
+88,3,GMO & organic,Comment,spiegel,92.0,"Mich interessiert in diesem Zusammenhang nicht auf was der Fisch getestet wurde, denn ""Öko"" ist in diesem Fall definitiv Etikettenschwindel.",270243.0,0.3490018844604492,1.0
+89,3,GMO & organic,Comment,spiegel,92.0,"Mich interessiert in diesem Zusammenhang nicht auf was der Fisch getestet wurde, denn ""Öko"" ist in diesem Fall definitiv Etikettenschwindel.",270240.0,0.3490018844604492,1.0
+90,3,GMO & organic,Comment,spiegel,92.0,"Auch wenn dann im Bericht klar gesagt wird, dass die Bewertung z.B. allein aufgrund Sensorik, Geschmack etc. erfolgte finde ich das nicht ok - das Label auf .",270055.0,0.303387314081192,0.15000000000000002
+91,4,Garbage 2,Comment,spiegel,92.0,Ich habe einmal ein wunderbares Zitat gefunden:.,270290.0,0.618622899055481,1.0
+92,5,Food products & taste,Comment,spiegel,92.0,Seit dem kaufen wir Bio-Karotten.,270023.0,0.3929791152477264,-0.7000000000000001
+93,5,Food products & taste,Comment,spiegel,92.0,Bei uns sind die Bio Karotten 20ct/kg billiger als die normalen.,270022.0,0.38797104358673096,1.0
+94,5,Food products & taste,Comment,spiegel,92.0,Schmeckt hervorragend.,270105.0,0.3681997060775757,1.0
+95,5,Food products & taste,Comment,spiegel,92.0,Zum Glück kann man Stevia auch als Saft der Pulver kaufen.,270176.0,0.3564121425151825,-0.7000000000000001
+96,5,Food products & taste,Comment,spiegel,92.0,"Erstens will ich einen sauberen Geschmack (jeder der mal direkt ein Käfigei neben einem Bioei oder Billigmilch neben Biomilch hatte, weiss von was ich spreche) und Zweitens will ich Zutaten mit denen ich kochen kann.",270082.0,0.3321512341499329,0.7000000000000001
+97,5,Food products & taste,Comment,spiegel,92.0,"Und die schweigende Mehrheit liebt Zusatzstoffe, sie macht nämlich aus einem muffig schmeckenden Biojoghurt mit Erdbeere ein Geschmackserlebnis.",270050.0,0.3271385431289673,-1.0
+98,5,Food products & taste,Comment,spiegel,92.0,"Und die schweigende Mehrheit liebt Zusatzstoffe, sie macht nämlich aus einem muffig schmeckenden Biojoghurt mit Erdbeere ein Geschmackserlebnis.",270103.0,0.3271385431289673,-1.0
+99,5,Food products & taste,Comment,spiegel,92.0,"Und leicht zuzubereiten, alles was über Packung aufschneiden hinausgeht, ist nicht akzeptabel.",270018.0,0.3158567845821381,-0.5
+100,5,Food products & taste,Comment,spiegel,92.0,Er hat versucht echte Lebensmittel(die Briten essen eigentlich Synthetikpampe mit Aroma) an Schulen einzuführen.,270076.0,0.31206268072128296,1.0
+101,5,Food products & taste,Comment,spiegel,92.0,"Du meine Güte: glauben Sie wirklich, dieser unsägliche Bulettenbräter würde gutes Essen servieren?",270255.0,0.2961084246635437,1.0
+102,5,Food products & taste,Comment,spiegel,92.0,Die gute Qualität oder auch nur der tolle Geschmack waren es nicht.,270263.0,0.2890083491802216,1.0
+103,5,Food products & taste,Comment,spiegel,92.0,"vorbei (wenn es Sie wirklich interessiert, was Sie essen.",269978.0,0.2882626950740814,1.0
+104,5,Food products & taste,Comment,spiegel,92.0,"vorbei (wenn es Sie wirklich interessiert, was Sie essen.",269962.0,0.2882626950740814,1.0
+105,5,Food products & taste,Comment,spiegel,92.0,"Die einen Schwingen die Bio- Moralkeule, und die anderen gönnen keinem ein Stückchen Demeter Butter auf dem Brot.",270040.0,0.28065043687820435,1.0
+106,5,Food products & taste,Comment,spiegel,92.0,"Ist nicht allgemein bekannt, daß damit nur der Geschmack prämiert wird?.",270043.0,0.2625560760498047,0.7000000000000001
+107,5,Food products & taste,Comment,spiegel,92.0,"Öka süsst mit Stevia, eine tolle Pflanze, die bei mir leider nicht lange überlebt hat.",270174.0,0.2625460922718048,1.0
+108,5,Food products & taste,Comment,spiegel,92.0,"Voraussetzung ist natürlich, dass man den Hintern hochkriegt und selber kocht anstatt die xte Kochsendung zu glotzen und die 1,49-EUR-Billigst-Fertigpizza in den stromfressenden Backofen zu schieben.",269942.0,0.2624946236610413,0.7000000000000001
+109,5,Food products & taste,Comment,spiegel,92.0,Abgespeist: Teekanne Landlust - www.abgespeist.de - Denn Etiketten lügen wie gedruckt - Eine Kampagne von foodwatch.,269961.0,0.25318843126297,-1.0
+110,5,Food products & taste,Comment,spiegel,92.0,"Dieser synthetische Matsch ist nur ein schwacher Versuch etwas nachzuahmen, was es in der Natur viel besser gibt.",270085.0,0.2340100407600403,-0.35000000000000003
+111,5,Food products & taste,Comment,spiegel,92.0,"Auch wenn dann im Bericht klar gesagt wird, dass die Bewertung z.B. allein aufgrund Sensorik, Geschmack etc. erfolgte finde ich das nicht ok - das Label auf dem Becher suggeriert eben etwas anderes.",269859.0,0.22454312443733213,0.15000000000000002
+112,5,Food products & taste,Comment,spiegel,92.0,Sicher haben sie auch genaue Quellen für die angeblich so Minderwertigen Zutaten bei McDoof .,269985.0,0.21880196034908286,-0.15000000000000002
+113,5,Food products & taste,Comment,spiegel,92.0,Sicher haben sie auch genaue Quellen für die angeblich so Minderwertigen Zutaten bei McDoof .,270031.0,0.21880196034908286,-0.15000000000000002
+114,5,Food products & taste,Comment,spiegel,92.0,Sicher haben sie auch genaue Quellen für die angeblich so Minderwertigen Zutaten bei McDoof .,270253.0,0.21880196034908286,-0.15000000000000002
+115,5,Food products & taste,Comment,spiegel,92.0,"Bitte mich nicht missverstehen, ich trinke auch gern mal einen Kaffee (32 /kg).",270331.0,0.19828325510025024,0.5
+116,5,Food products & taste,Comment,spiegel,92.0,"Bitte mich nicht missverstehen, ich trinke auch gern mal einen Kaffee (32 /kg).",270299.0,0.19828325510025024,0.5
+117,6,Food safety,Comment,spiegel,92.0,"Die Kinder haben von so etwas wie Kartoffeln und Karotten eine schwere Vergiftung bekommen, da Ihr Verdauungstrakt so etwas nicht mehr verarbeiten konnte, sondern bereits derart degenriert war, dass echtes Essen wie Gift wirkt.",270078.0,0.3942338526248932,0.5
+118,6,Food safety,Comment,spiegel,92.0,So gesund ist die braune Farbe nämlich auch nicht.,270150.0,0.3239971995353699,1.0
+119,6,Food safety,Comment,spiegel,92.0,So gesund ist die braune Farbe nämlich auch nicht.,270172.0,0.3239971995353699,1.0
+120,7,Research,Comment,spiegel,92.0,"Bionisten existieren wohl, um zu darben.",270051.0,0.38844674825668335,-1.0
+121,7,Research,Comment,spiegel,92.0,Der Unterschied zwischen Natur und Chemie ist eher philosophscher als fachlicher Natur.,270162.0,0.335674911737442,0.7000000000000001
+122,7,Research,Comment,spiegel,92.0,Öko-Test macht mit seinen Tests leider auch nur Politik und ist bei Leibe keine neutrale oder gar unabhängige Instanz.,270063.0,0.3117819130420685,1.0
+123,7,Research,Comment,spiegel,92.0,Öko-Test macht mit seinen Tests leider auch nur Politik und ist bei Leibe keine neutrale oder gar unabhängige Instanz.,270110.0,0.3117819130420685,1.0
+124,7,Research,Comment,spiegel,92.0,Öko-Test macht mit seinen Tests leider auch nur Politik und ist bei Leibe keine neutrale oder gar unabhängige Instanz.,270120.0,0.3117819130420685,1.0
+125,7,Research,Comment,spiegel,92.0,"Aber zusätzlich zu dem, was für ""Bio"" notwendig wäre, zahlt man hier auch noch für den Eso-Kokolores mit: Den Mondphasen-Hofastrologen fürs ""Bio-dynamische"" und andere verSTEINERte Ideen, denen diese Leute nachhängen.",270210.0,0.2934267520904541,-0.7000000000000001
+126,7,Research,Comment,spiegel,92.0,Und die zwischen den Zeilen stehende Botschaft Bio equal gesund equal Fair Trade zeugt auch deutlich von der Unkenntnis oder Voreingenommenheit des Autors.,269851.0,0.2872050702571869,1.0
+127,7,Research,Comment,spiegel,92.0,"Öko-Test weist ganz klar aus, auf welchen Grundlagen die Bewertung geschehen ist, deswegen ist es in meinen Augen ein sehr gutes Siegel!.",270061.0,0.2841505706310272,1.0
+128,7,Research,Comment,spiegel,92.0,"Öko-Test weist ganz klar aus, auf welchen Grundlagen die Bewertung geschehen ist, deswegen ist es in meinen Augen ein sehr gutes Siegel!.",269908.0,0.2841505706310272,1.0
+129,7,Research,Comment,spiegel,92.0,"So, und nun, liebe Biofanatiker, zerreißt mich :).",269872.0,0.2750211656093597,1.0
+130,7,Research,Comment,spiegel,92.0,"So, und nun, liebe Biofanatiker, zerreißt mich :)",269852.0,0.2620331645011902,1.0
+131,7,Research,Comment,spiegel,92.0,supermaerkten beweist taeglich was in menge.,269865.0,0.25330454111099243,1.0
+132,7,Research,Comment,spiegel,92.0,Der Fund ist Gegenstand kontroverser Diskussionen.,270231.0,0.2378675192594528,-1.0
+133,7,Research,Comment,spiegel,92.0,"Wenn die Menschen dann nur nicht immer so jammern würden, wenn sie krank werden.",270217.0,0.2191298753023148,-0.85
+134,7,Research,Comment,spiegel,92.0,"Stephen Hawking, in dem viele ja einen angesehenen Wissenschaftler sehen, hält z.B. außerirdischen Leben nicht nur für möglich, er warnt sogar vor einer Kontaktaufnahme.",270229.0,0.2106633484363556,0.1
+135,7,Research,Comment,spiegel,92.0,Warum kritisieren Sie das nicht bei allen Bio-Zeichen?,270191.0,0.21042844653129572,-1.0
+136,7,Research,Comment,spiegel,92.0,Die Lebenserwartung ist dann dramatisch klein und diesen Winter hätten Sie nicht überlebt.,270048.0,0.2086619883775711,0.7000000000000001
+137,7,Research,Comment,spiegel,92.0,"Und es gibt ihn doch fair trade bio Tabak "" auf der Suche nach der Wahrheit",270237.0,0.19044376909732816,1.0
+138,7,Research,Comment,spiegel,92.0,"Dass ein Qualitätslogo kein Bio- und Soziallogo ist, finde ich eigentlich nicht sonderlich überraschend und auch kein Kritikpunkt.",269850.0,0.17220249772071838,-0.35000000000000003
+139,8,Health & nutrition,Comment,spiegel,92.0,"Wenn man solche Ansichten liest, wird einem klar warum es die Lebensmittelindustrie so einfach hat mit dem Verarschen der Konsumenten.",269993.0,0.5178530812263489,0.15000000000000002
+140,8,Health & nutrition,Comment,spiegel,92.0,"Vielleicht soltlen sie aber nochmals die Zutatenlisten ""normaler"" Lebensmittel begutachten, so schlimm wie sie es hier darstellen wollen ist es nicht.",270249.0,0.4564826488494873,-0.15000000000000002
+141,8,Health & nutrition,Comment,spiegel,92.0,"Vielleicht soltlen sie aber nochmals die Zutatenlisten ""normaler"" Lebensmittel begutachten, so schlimm wie sie es hier darstellen wollen ist es nicht.",270027.0,0.4564826488494873,-0.15000000000000002
+142,8,Health & nutrition,Comment,spiegel,92.0,"Vielleicht soltlen sie aber nochmals die Zutatenlisten ""normaler"" Lebensmittel begutachten, so schlimm wie sie es hier darstellen wollen ist es nicht.",269981.0,0.4564826488494873,-0.15000000000000002
+143,8,Health & nutrition,Comment,spiegel,92.0,Gesunde Ernährung ist aus meiner Sicht immer regional.,270315.0,0.4527589380741121,1.0
+144,8,Health & nutrition,Comment,spiegel,92.0,Alle die Kinder haben sollten Sich überlegen was Sie Ihnen zum Essen geben und wie das Essen wieder die Umwelt beeinflusst.,270093.0,0.4514163136482239,0.7000000000000001
+145,8,Health & nutrition,Comment,spiegel,92.0,"Es muss schon ziemlich krank sein, in einen Fressladen zu gehen, dessen Essen einen fett macht und nach nichts schmeckt, nur weil es ""angesagt"" ist.",270265.0,0.4411373734474182,-0.15000000000000002
+146,8,Health & nutrition,Comment,spiegel,92.0,"Müssen wir uns von der Industrie ""bemuttern"" lassen, können wir uns nicht selber um unseren Erhalt über die Nahrung kümmern?.",270305.0,0.4399120509624481,0.7000000000000001
+147,8,Health & nutrition,Comment,spiegel,92.0,"Fett über Fett, ballaststoffreie Kohlenhydrate, Kalorien über Kalorien - DAS ist McDonald's und natürlich Hühnerfleisch aus Qualzucht.",270259.0,0.43389731645584106,0.6999999999999991
+148,8,Health & nutrition,Comment,spiegel,92.0,Fingerfood und Bärchenwurst gehören nicht zur gesunden Ernährung.,270314.0,0.4243641495704651,1.0
+149,8,Health & nutrition,Comment,spiegel,92.0,"Essen muss folgende Anforderungen erfüllen: billig, grosse Gebinde, lange haltbar und leicht stapelbar.",270017.0,0.4225241541862488,0.85
+150,8,Health & nutrition,Comment,spiegel,92.0,"wer nicht weiß, das ökologisch korrekt hergestellte schokoriegel genauso zuckerkrank machen können wie konventionell hergestellte, dem ist auch nicht mehr zu helfen.",269874.0,0.4214243888854981,-0.058333333333333
+151,8,Health & nutrition,Comment,spiegel,92.0,"""Worauf beruht eine gesunde Ernährung?",270291.0,0.3989417552947998,1.0
+152,8,Health & nutrition,Comment,spiegel,92.0,"Sie dürfen natürlich mit erhobenen Zeigefinger daherkommen, weil Sie nicht nur Biolebensmittel kaufen, sondern allgemein mehr als 50 Prozent Ihres Einkommens für ökologisch korrekte Dinge ausgeben: Ihre Klamotten wurden umweltfreundlich gefärbt und nicht von Kindern zusammengenäht, Sie wohnen in einem Passiv- oder Niedrigenergiehaus, das mit Holzheizung und Solaranlage die restliche Energie erhält, mobil sind Sie dank ÖPNV (die Busse in Ihrer Stadt fahren alle mit Biogas, die Straßenbahn mit Ökostrom), und falls Sie doch ein Auto besitzen, fährt das ebenfalls mit Biosprit (für den keine Regenwälder abgeholzt wurden).",269920.0,0.3815893828868866,0.06000000000000001
+153,8,Health & nutrition,Comment,spiegel,92.0,"Wollen wir aber, dass, damit Joghurt billig bleibt, er tausende Kilometer durch Europa ""gekarrt"" wird?",270309.0,0.31798091530799866,1.0
+154,8,Health & nutrition,Comment,spiegel,92.0,"""Kochen ist eine lebenswichtige Fähigkeit, die wir verloren haben."".",270304.0,0.30630266666412354,-0.35000000000000003
+155,9,Garbage 3,Comment,spiegel,92.0,Damit liegt man immer richtig.,269834.0,0.4989652037620544,1.0
+156,9,Garbage 3,Comment,spiegel,92.0,Damit liegt man immer richtig.,269945.0,0.4989652037620544,1.0
+157,9,Garbage 3,Comment,spiegel,92.0,Damit liegt man immer richtig.,269902.0,0.4989652037620544,1.0
+158,9,Garbage 3,Comment,spiegel,92.0,Damit liegt man immer richtig.,269881.0,0.4989652037620544,1.0
+159,9,Garbage 3,Comment,spiegel,92.0,"Da kann man schnell überprüfen, wie diese arbeitet.",270280.0,0.4275292754173279,0.7000000000000001
+160,9,Garbage 3,Comment,spiegel,92.0,gehen Sie doch bitte mehr auf den kern ein -.,270363.0,0.4220446348190308,0.5
+161,9,Garbage 3,Comment,spiegel,92.0,Kleiner Einkauf mit großer Wirkung.,270397.0,0.4168183505535126,0.7000000000000001
+162,9,Garbage 3,Comment,spiegel,92.0,Das zu stärken wäre sinnvoll.,270312.0,0.3971562385559082,1.0
+163,9,Garbage 3,Comment,spiegel,92.0,;-) Manchmal kommts einem wirklich so vor.,269883.0,0.38089028000831604,1.0
+164,9,Garbage 3,Comment,spiegel,92.0,Das ist eine absolute Schande!.,270392.0,0.346775621175766,0.7000000000000001
+165,9,Garbage 3,Comment,spiegel,92.0,"Ja, auch ne schöne Methode!",269882.0,0.3444183468818665,1.0
+166,9,Garbage 3,Comment,spiegel,92.0,froh wenn die diebe etwas saft zurueckgeben - je mehr desto besser.,270371.0,0.3311599493026733,0.5
+167,9,Garbage 3,Comment,spiegel,92.0,Kleiner Einkauf mit großer Wirkung - YouTube.,270399.0,0.2791401743888855,0.7000000000000001
+168,10,Politics & policy & compliance,Comment,spiegel,92.0,"Zu glauben, die letztere würde das freiwillig tun, ist natürlich naiv, deshalb müssen dort mehr Druck und vor allem konsequentere Kontrollen sowie Strafen bei Verstößen her.",269889.0,0.3570827841758728,-0.25
+169,10,Politics & policy & compliance,Comment,spiegel,92.0,"Und wenn doch, dann wird man in suburbanen Akademikerkreisen aber ganz ganz böse angeschaut.",270154.0,0.2680931091308594,-1.0
+170,10,Politics & policy & compliance,Comment,spiegel,92.0,"Und wenn doch, dann wird man in suburbanen Akademikerkreisen aber ganz ganz böse angeschaut.",269905.0,0.2680931091308594,-1.0
+171,10,Politics & policy & compliance,Comment,spiegel,92.0,"Bei ÖKO-TEST bemängeln Sie unter anderem, dass die Vergabekriterien nichts mit Umweltverträglichkeit zu tun haben.",270190.0,0.2451712638139725,-1.0
+172,11,Animal welfare & meat consumption,Comment,spiegel,92.0,"Keine Wurstimitate, Fleisch am liebsten mit staatlichem Biosiegel, niemals Billigfleisch (dann lieber kein Fleisch).",270282.0,0.4344506859779358,1.0
+173,11,Animal welfare & meat consumption,Comment,spiegel,92.0,"Dass die nur mit glücklichen Kühen, aber nicht glücklichen Hühnern werben, hat seinen perfiden Grund.",270260.0,0.388266921043396,0.25
+174,11,Animal welfare & meat consumption,Comment,spiegel,92.0,"Aber es gibt ja auch ""Experten"" die meinen Bratwurst sei aus Fett und Phosphat hergestellt und Döner naturrein.",270135.0,0.3592316508293152,0.7000000000000001
+175,11,Animal welfare & meat consumption,Comment,spiegel,92.0,"Die Siegel sind prinzipiell keine schlechte Sache, sie funktionieren aber nicht für alle Lebensmittel, ein bißchen Recherche muß man schon reinstecken, wenn man wissen will, von wem man etwas kauft und wie es produziert wird.",270272.0,0.3056973218917847,-0.099999999999999
+176,11,Animal welfare & meat consumption,Comment,spiegel,92.0,weil man sich duch Fairtrade/Bio endgueltig moralisch davon.,270379.0,0.30484676361083984,1.0
+177,11,Animal welfare & meat consumption,Comment,spiegel,92.0,weil man sich duch Fairtrade/Bio endgueltig moralisch davon.,270374.0,0.30484676361083984,1.0
+178,11,Animal welfare & meat consumption,Comment,spiegel,92.0,"Seit ich allerdings im Supermarkt auf eine Packung mit Rotbarsch (einer bekanntermassen hoffnungslos überfischten Tiefseeart, die nur sehr langsam wächst - dafür gibt es keine ""nachhaltige"" Fangmethode) - mit der Note ""Ökotest - Sehr gut"" gelesen habe, weiss ich, was von diesem Verein zu halten ist.",270239.0,0.30280709266662603,-0.23333333333333306
+179,12,Farming & agricultural policy & food security,Comment,spiegel,92.0,"Aber um wieviel schlimmer wird die Bilanz, wenn der Bauer von der Agroindustrie und Zwischenhändlern dafür noch nicht mal genug Geld zum Leben bekommt, unter menschenunwürdigen Bedingungen arbeiten muß, seine Umwelt (und sich selbst) mit Pestiziden vergiften muß, die Verbreitung gentechnisch veränderten Saatguts gefördert wird?.",270335.0,0.5441462993621826,0.7000000000000001
+180,12,Farming & agricultural policy & food security,Comment,spiegel,92.0,"Zusätzlich zu einem festgelegten Mindestpreis, der den einzelnen Bauern selbst zu Gute kommt, können die Produzenten noch eine Fairtrade-Prämie erhalten, die in Gemeinschaftsprojekte wie Straßenbau, Fortbildungszentren, Schulen, den Umstieg auf ökologischen Anbau, der mit einem zusätzlichen Bio-Zuschlag bezahlt wird.",270383.0,0.5224190950393677,-0.35000000000000003
+181,12,Farming & agricultural policy & food security,Comment,spiegel,92.0,fuer das rohprodukt selbst zahlen aber auch weiterhin nie eine eigene gewinnbringende veredlungsindustrie haben werden und damit bleibt die bevoelkerung letzendlich auf wirtschaftlich niedrigem agrarniveau.,270347.0,0.4849089980125427,-0.7000000000000001
+182,12,Farming & agricultural policy & food security,Comment,spiegel,92.0,"""Ökologisch"" mag ja noch angehen für nachhaltige Landwirtschaft, aber ""bio""?!",269931.0,0.4817459583282471,0.5
+183,12,Farming & agricultural policy & food security,Comment,spiegel,92.0,"Ich finde es selbstverständlich sehr schön, dass ich durch mein Einkaufverhalten auch indirekten Umweltschutz betreiben kann, denn unser Planet hat bereits genug gelitten.",270092.0,0.4408509135246277,0.85
+184,12,Farming & agricultural policy & food security,Comment,spiegel,92.0,"Vieles, was aus der konventionellen Landwirtschaft ist auch gut.",270166.0,0.4364234209060669,1.0
+185,12,Farming & agricultural policy & food security,Comment,spiegel,92.0,Das Fairtrade-Siegel fördert die Organisation von Kleinbauern in von ihnen selbst demokratisch verwalteten Kooperativen.,270382.0,0.4267082214355469,0.7000000000000001
+186,12,Farming & agricultural policy & food security,Comment,spiegel,92.0,wir holen uns die rohstoffe billig aus den laendern und.,270364.0,0.4220037758350372,1.0
+187,12,Farming & agricultural policy & food security,Comment,spiegel,92.0,")-mehr Fraktion kann gerne das Doppelte und Dreifache für sein Öko-Bio-Naturprodukt zahlen und mit dem Fahrrad zum nächsten Bioladen strampeln, ich fahre mit dem Auto zum nächsten Billig-Discounter und kaufe dort ein!",270013.0,0.2670274674892425,-0.35000000000000003
+188,12,Farming & agricultural policy & food security,Comment,spiegel,92.0,")-mehr Fraktion kann gerne das Doppelte und Dreifache für sein Öko-Bio-Naturprodukt zahlen und mit dem Fahrrad zum nächsten Bioladen strampeln, ich fahre mit dem Auto zum nächsten Billig-Discounter und kaufe dort ein!",269991.0,0.2670274674892425,-0.35000000000000003
+189,12,Farming & agricultural policy & food security,Comment,spiegel,92.0,")-mehr Fraktion kann gerne das Doppelte und Dreifache für sein Öko-Bio-Naturprodukt zahlen und mit dem Fahrrad zum nächsten Bioladen strampeln, ich fahre mit dem Auto zum nächsten Billig-Discounter und kaufe dort ein!",269967.0,0.2670274674892425,-0.35000000000000003
+190,13,Consumer prices & profit,Comment,spiegel,92.0,Dafür werden angeblich Verbraucher befragt.,270206.0,0.40716221928596497,-1.0
+191,13,Consumer prices & profit,Comment,spiegel,92.0,"Weil es nicht nötig ist, aber ein Produkt billig macht (für den Hersteller).",269976.0,0.3718582391738892,1.0
+192,13,Consumer prices & profit,Comment,spiegel,92.0,"Weil es nicht nötig ist, aber ein Produkt billig macht (für den Hersteller).",269959.0,0.3718582391738892,1.0
+193,13,Consumer prices & profit,Comment,spiegel,92.0,"Fazit: Wenn man wirklich Wert darauf legt, was man einkauft, muß man jedes Produkt mit offenen Augen betrachten und nachrecherchieren.",270286.0,0.3665410280227661,0.85
+194,13,Consumer prices & profit,Comment,spiegel,92.0,"und alles ist gut weil Fairtrade weniger ""stueckchen"".",270368.0,0.35160237550735474,1.0
+195,13,Consumer prices & profit,Comment,spiegel,92.0,"Der Konsument will blind in ein Regal greifen können und per Ampel, Logo oder sonstwie 100% ig informiert sein.",269835.0,0.3327670693397522,-1.0
+196,13,Consumer prices & profit,Comment,spiegel,92.0,"Und das Schöne ist, dass Nachhaltigkeit und Luxus absolut vereinbar sind auch für Leute mit kleinen Brieftaschen.",270095.0,0.3312705457210541,0.85
+197,13,Consumer prices & profit,Comment,spiegel,92.0,Sie trotzdem dürfen gerne weiter den billigsten Chemie-Brei kaufen.,269995.0,0.3216788172721863,-0.7000000000000001
+198,13,Consumer prices & profit,Comment,spiegel,92.0,"Ich kaufe zwar auch ab und zu Öko-Produkte, laufe diesbezüglich aber nicht mit Scheuklappen durch die Welt.",270165.0,0.3183826804161072,-0.7000000000000001
+199,13,Consumer prices & profit,Comment,spiegel,92.0,"Verarschen kann ich mich auch selber, muss dafür aber nicht noch mehr Geld als nötig im Laden liegen alssen.",270134.0,0.3116902709007263,-0.35000000000000003
+200,13,Consumer prices & profit,Comment,spiegel,92.0,"Verarschen kann ich mich auch selber, muss dafür aber nicht noch mehr Geld als nötig im Laden liegen alssen.",269952.0,0.3116902709007263,-0.35000000000000003
+201,13,Consumer prices & profit,Comment,spiegel,92.0,"Verarschen kann ich mich auch selber, muss dafür aber nicht noch mehr Geld als nötig im Laden liegen alssen.",270021.0,0.3116902709007263,-0.35000000000000003
+202,13,Consumer prices & profit,Comment,spiegel,92.0,"Verarschen kann ich mich auch selber, muss dafür aber nicht noch mehr Geld als nötig im Laden liegen alssen.",269893.0,0.3116902709007263,-0.35000000000000003
+203,13,Consumer prices & profit,Comment,spiegel,92.0,"Verarschen kann ich mich auch selber, muss dafür aber nicht noch mehr Geld als nötig im Laden liegen alssen.",270216.0,0.3116902709007263,-0.35000000000000003
+204,13,Consumer prices & profit,Comment,spiegel,92.0,"Den schlimmmsten Müll kann man vermeiden, wenn man keine beworbenen Artikel kauft.",269955.0,0.3104903101921081,-0.7000000000000001
+205,13,Consumer prices & profit,Comment,spiegel,92.0,"Den schlimmmsten Müll kann man vermeiden, wenn man keine beworbenen Artikel kauft.",269972.0,0.3104903101921081,-0.7000000000000001
+206,13,Consumer prices & profit,Comment,spiegel,92.0,"Diese ""Kritik"" würde also alle Label treffen, und sogar der Gesetzgeber legt unterschiedliche Kriterien für unterschiedliche Produkte fest.",270196.0,0.3056743741035461,-0.7000000000000001
+207,13,Consumer prices & profit,Comment,spiegel,92.0,"Und am anderen Ende der Skala kann ich die gute Beurteilung von ""Demeter"" nicht ganz nachvollziehen: Zwar sind die Produkte an sich sicher gut.",270209.0,0.30425289273262024,1.0
+208,13,Consumer prices & profit,Comment,spiegel,92.0,Nein - diesem Unternehmen kann man genauso wenig trauen.,270072.0,0.2982766926288605,0.35000000000000003
+209,13,Consumer prices & profit,Comment,spiegel,92.0,Widmen wir uns doch mal dem Kern des Transfair-Handels:.,270381.0,0.29311656951904297,-0.7000000000000001
+210,13,Consumer prices & profit,Comment,spiegel,92.0,"Da ist Ihnen offenbar wichtig mitzuteilen, dass Labelnutzer eine Gebühr zahlen müssen.",270185.0,0.2906043529510498,0.7000000000000001
+211,13,Consumer prices & profit,Comment,spiegel,92.0,Auf keinen Fall amerikanische Marken (Biopiraterie durch Patente) oder große deutsche Marken (behindern den Handel asiatischer Länder).,270285.0,0.2887377440929413,0.7000000000000001
+212,13,Consumer prices & profit,Comment,spiegel,92.0,"""Testsieger ist die Billig-/ oder Eigenmarke, jedenfalls niemals der Platzhirsch oder die Premium-Marke""!.",270065.0,0.28037863969802856,1.0
+213,13,Consumer prices & profit,Comment,spiegel,92.0,"Wenn man sein Einkaufsverhalten auch nur mal 5 Minuten betrachtet, stellt man doch fest, man kauft einen Großteil der Lebensmitel immer wieder und wieder.",269838.0,0.277554452419281,-0.7000000000000001
+214,13,Consumer prices & profit,Comment,spiegel,92.0,"""Testsieger ist die Billig-/ oder Eigenmarke, jedenfalls .",270122.0,0.2686716914176941,1.0
+215,13,Consumer prices & profit,Comment,spiegel,92.0,"Vor allem aber vergessen Sie, dass der von Ihnen gelobte TÜV sich nicht nur von den Labelnutzern die Tests bezahlen lässt, sondern auch noch in der Regel umsatzabhängig an der Labelnutzung verdient (was in die zehntausende von Euro gehen kann).",270188.0,0.2618439495563507,-0.85
+216,14,Garbage 4,Comment,spiegel,92.0,"Falls nicht, finde ich Ihre Haltung etwas heuchlerisch.",269922.0,0.3404749035835266,-1.0
+217,14,Garbage 4,Comment,spiegel,92.0,"Falls nicht, finde ich Ihre Haltung etwas heuchlerisch.",269998.0,0.3404749035835266,-1.0
+218,14,Garbage 4,Comment,spiegel,92.0,Das ist ein Mensch und Umwelt gegenüber fairer Kompromiß.,270338.0,0.3152476251125336,1.0
+219,14,Garbage 4,Comment,spiegel,92.0,Ich glaube jedoch nicht das der große Teil der Bevölkerung sich dafür interessiert.,269841.0,0.2921865880489349,0.85
+220,14,Garbage 4,Comment,spiegel,92.0,zynisch ist es diese subtile art der ausbeutung zu (l)egalisieren.,270377.0,0.2869665026664734,-1.0
+221,14,Garbage 4,Comment,spiegel,92.0,zynisch ist es diese subtile art der ausbeutung zu (l)egalisieren.,270372.0,0.2869665026664734,-1.0
+222,14,Garbage 4,Comment,spiegel,92.0,"Da kann man sich auch mal die Mühe machen, Kleingedrucktes zu lesen oder sich im Web schlau zu machen.",269839.0,0.2588918209075928,1.0
+223,14,Garbage 4,Comment,spiegel,92.0,(Würde mich jedenfalls als Gelegentlich-McDoof-Besucher doch brennend interessieren).,270032.0,0.2554623782634735,1.0
+224,14,Garbage 4,Comment,spiegel,92.0,(Würde mich jedenfalls als Gelegentlich-McDoof-Besucher doch brennend interessieren).,270254.0,0.2554623782634735,1.0
+225,14,Garbage 4,Comment,spiegel,92.0,"Mag ja alles nützlich sein in der Alltagssprache, aber man sollte nicht vergessen, woher die Begriffe stammen und was sie eigentlich bedeuten.",269934.0,0.2484326511621475,0.7833333333333331
+226,14,Garbage 4,Comment,spiegel,92.0,Und die zwischen den Zeilen stehende Botschaft  equal Fair Trade zeugt auch deutlich von der Unkenntnis oder Voreingenommenheit des Autors.,269871.0,0.22783881425857544,1.0
+227,14,Garbage 4,Comment,spiegel,92.0,eine einsicht und bedauern in das eigene taegliche versagen.,270007.0,0.21159878373146052,-1.0
+228,14,Garbage 4,Comment,spiegel,92.0,"""ich erlaube mir auch den neuesten Schwachsinn zu kommentieren, den Sie auf Spiegel-Online veröffentlichen.",270179.0,0.20264984667301172,1.0
