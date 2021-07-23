@@ -2,6 +2,10 @@
 
 This is the source code for the paper "A Case Study and Qualitative Analysis of Simple Cross-Lingual Opinion Mining", which was accepted as full paper with oral presentation at the 13th International [Conference on Knowledge Discovery and Information Retrieval (KDIR)](http://www.kdir.ic3k.org/).
 
+# Workflow
+
+![workflow](./workflow.png)
+Fig. 1. Plain text is first tokenized into sentences and passed to topic modeling and sentiment analysis. Topic modeling involves (1) converting sentences of both languages into embeddings with XLING, (2) clustering all embeddings with K-means and (3) deriving a topic label of each cluster. Sentiment analysis is performed using Textblob. Topic and sentiment scores are aggregated for the analysis.
 
 # Documentation
 
